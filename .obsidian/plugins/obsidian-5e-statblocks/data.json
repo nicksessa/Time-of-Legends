@@ -1,0 +1,476 @@
+{
+  "monsters": [
+    [
+      "Ancient Black Dragon",
+      {
+        "layout": "Basic 5e Layout",
+        "image": "<STATBLOCK-WIKI-LINK>ancientBlackDragon.webp<STATBLOCK-WIKI-LINK>",
+        "name": "Ancient Black Dragon",
+        "size": "Gargantuan",
+        "type": "dragon",
+        "subtype": null,
+        "alignment": "chaotic evil",
+        "ac": 22,
+        "hp": 367,
+        "hit_dice": "21d20",
+        "speed": "40 ft., fly 80 ft., swim 40 ft.",
+        "stats": [
+          27,
+          14,
+          25,
+          16,
+          15,
+          19
+        ],
+        "saves": [
+          {
+            "dexterity": 9
+          },
+          {
+            "constitution": 14
+          },
+          {
+            "wisdom": 9
+          },
+          {
+            "charisma": 11
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 16
+          },
+          {
+            "stealth": 9
+          }
+        ],
+        "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26",
+        "languages": "Common, Draconic",
+        "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "fire, poison",
+        "condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "cr": 21,
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The dragon can breathe air and water"
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage."
+          },
+          {
+            "name": "Tail",
+            "desc": "Melee Weapon Attack: +15 to hit, reach 20 ft ., one target. Hit: 17 (2d8 + 8) bludgeoning damage."
+          },
+          {
+            "name": "Frightful Presence",
+            "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours."
+          },
+          {
+            "name": "Acid Breath (Recharge 5-6)",
+            "desc": "The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Amphibious",
+            "desc": "The dragon can breathe air and water."
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Detect",
+            "desc": "The dragon makes a Wisdom (Perception) check."
+          },
+          {
+            "name": "Tail Attack",
+            "desc": "The dragon makes a tail attack."
+          },
+          {
+            "name": "Wing Attack (Costs 2 Actions)",
+            "desc": "The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+          }
+        ],
+        "spells": [
+          "The dragon is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared",
+          {
+            "Cantrips (at will)": "fire bolt, light, mage hand, prestidigitation, shocking grasp"
+          },
+          {
+            "1st level (4 slots)": "detect magic, identify, mage armor*, magic missile"
+          },
+          {
+            "2nd level (3 slots)": "detect thoughts, mirror image, misty step"
+          },
+          {
+            "3rd level (3 slots)": "counterspell, fly, lightning bolt"
+          },
+          {
+            "4th level (3 slots)": "banishment, fire shield, stoneskin*"
+          },
+          {
+            "5th level (3 slots)": "cone of cold, scrying, wall of force"
+          },
+          {
+            "6th level (1 slot)": "globe of invulnerability"
+          },
+          {
+            "7th level (1 slot)": "teleport"
+          },
+          {
+            "8th level (1 slot)": "mind blank*"
+          },
+          {
+            "9th level (1 slot)": "time stop"
+          },
+          "* The archmage casts these spells on itself before combat."
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Knight_Errant",
+      {
+        "layout": "Time of Legends",
+        "image": "<STATBLOCK-WIKI-LINK>knight_01.jpg<STATBLOCK-WIKI-LINK>",
+        "name": "Knight_Errant",
+        "level": 1,
+        "size": "medium",
+        "type": "Human",
+        "virtueLevel": 2,
+        "health": "Unwounded",
+        "MOVE": "Medium",
+        "INI": 1,
+        "MA": 2,
+        "STR": 2,
+        "MD": 1,
+        "TOUGH": 6,
+        "RATT": 0,
+        "RSTR": 1,
+        "LD": 8,
+        "NUMATT": 1,
+        "FATEPOINTS": 2,
+        "stats": [
+          1,
+          2,
+          2,
+          1,
+          3,
+          0,
+          0,
+          1,
+          8,
+          2
+        ],
+        "languages": "Latin, French",
+        "weapons": "Sword, Medium Shield, Lance",
+        "armor": "Partial Plate",
+        "horse": "Heavy Warhorse",
+        "skills": "",
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Knight Errant",
+      {
+        "layout": "Time of Legends",
+        "image": "<STATBLOCK-WIKI-LINK>knight_01.jpg<STATBLOCK-WIKI-LINK>",
+        "name": "Knight Errant",
+        "level": 1,
+        "size": "medium",
+        "type": "Human",
+        "virtueLevel": 2,
+        "health": "Unwounded",
+        "MOVE": "Medium",
+        "INI": 1,
+        "MA": 2,
+        "STR": 2,
+        "MD": 1,
+        "TOUGH": 6,
+        "RATT": 0,
+        "RSTR": 1,
+        "LD": 8,
+        "NUMATT": 1,
+        "FATEPOINTS": 2,
+        "stats": [
+          1,
+          2,
+          2,
+          1,
+          3,
+          0,
+          0,
+          1,
+          8,
+          2
+        ],
+        "languages": "Latin, French",
+        "weapons": "Sword, Medium Shield, Lance",
+        "armor": "Partial Plate",
+        "horse": "Heavy Warhorse",
+        "skills": "",
+        "source": "Homebrew"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "698a598a793b",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "0bf9eb8b08cb",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "2bd9e96909e8",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "9aca2a3a8b38",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "aa7a58fa9a38",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": []
+                    }
+                  ]
+                },
+                {
+                  "type": "property",
+                  "id": "886aa97b0a3a",
+                  "properties": [
+                    "level"
+                  ],
+                  "fallback": "-",
+                  "display": "Level"
+                },
+                {
+                  "type": "property",
+                  "id": "3819fabb78c8",
+                  "properties": [
+                    "virtueLevel"
+                  ],
+                  "fallback": "-",
+                  "display": "Virtue Level"
+                },
+                {
+                  "type": "property",
+                  "id": "fb8bca7b18f9",
+                  "properties": [
+                    "type"
+                  ],
+                  "fallback": "-",
+                  "display": "Type"
+                },
+                {
+                  "type": "property",
+                  "id": "0b3b48183bbb",
+                  "properties": [
+                    "MOVE"
+                  ],
+                  "fallback": "-",
+                  "display": "Move"
+                },
+                {
+                  "type": "property",
+                  "id": "bad91bb9daab",
+                  "properties": [
+                    "health"
+                  ],
+                  "fallback": "-",
+                  "display": "Health"
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "a80bb88a899b",
+              "properties": [
+                "image"
+              ],
+              "fallback": "-"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "9bc9aa6b6b29",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "6b9bf8294818",
+              "properties": [
+                "DR"
+              ],
+              "display": "Damage Reduction",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "2a69895b1968",
+              "properties": [
+                "wound level"
+              ],
+              "display": "Wound Level",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "3a090ad9b948",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "INI",
+            "M.ATT",
+            "STR",
+            "M.DEF",
+            "TOUGH",
+            "R.ATT",
+            "R.STR",
+            "# ATT",
+            "Ld",
+            "FP"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "39297bfa39fb",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "",
+          "nested": [
+            {
+              "type": "text",
+              "id": "48b80b681898",
+              "properties": [
+                "weapons"
+              ],
+              "conditioned": true,
+              "text": null,
+              "heading": "Weapons"
+            },
+            {
+              "type": "text",
+              "id": "78bbeb2a580b",
+              "properties": [
+                "armor"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "Armor",
+              "conditioned": true,
+              "headingProp": false
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "inline",
+          "id": "68db6b288988",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "387b1adb092b",
+              "properties": [
+                "horse"
+              ],
+              "fallback": "-",
+              "display": "Horse",
+              "conditioned": true
+            }
+          ]
+        }
+      ],
+      "name": "Time of Legends",
+      "id": "fadaa8b93a3b",
+      "columnWidth": 700,
+      "columns": 2
+    }
+  ],
+  "default": "fadaa8b93a3b",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 2
+  },
+  "paths": [
+    "2. Game Rules/Bestiary"
+  ],
+  "autoParse": true,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

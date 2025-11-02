@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "ebf3d419f22c5140",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b311d9c0ba9b62b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f107df6d5762c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Scratch Notes/Testing Random Tables.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Testing Random Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42778166701accd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6d07f9c8977cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c4f52af2c8ebc09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6dd677db6cc81212",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"level\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f9d4725fa4a084f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "f7ed9a91b08f86e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c964e8a0e13ba883",
+        "type": "tabs",
+        "dimension": 61.75000000000001,
+        "children": [
+          {
+            "id": "5bee9e0e7fb88089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. The World/Knights of Camelot Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Knights of Camelot Map"
+            }
+          },
+          {
+            "id": "a7aa8cdb3399de40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. The World/Knights of Camelot Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Knights of Camelot Map"
+            }
+          },
+          {
+            "id": "f515cea8f083cf2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1c8874047b65fb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Scratch Notes/Link to Me.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Link to Me"
+            }
+          },
+          {
+            "id": "01894f23db188ab5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ffc07dd46bb59491",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e5304c7235422d67",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0. Scratch Notes/Linking Example.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Linking Example"
+            }
+          },
+          {
+            "id": "515151f8a9b37615",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "1950df715679e19e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_293b19496989",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "year": 2025,
+                    "month": 10,
+                    "day": 2
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_2909f999aa19"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "aa565a53c8741e6a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "d8a7346180479745",
+        "type": "tabs",
+        "dimension": 38.25,
+        "children": [
+          {
+            "id": "97b336acf23fe817",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "76f107df6d5762c8",
+  "lastOpenFiles": [
+    "gregorian-calendar.json",
+    "Unconfirmed 288400.crdownload",
+    "0. Scratch Notes/Testing Dice Roller.md",
+    "0. Scratch Notes/Testing Data Tables.md",
+    "1. The Party/Sir Bors.md",
+    "1. The Party/Sir Balin.md",
+    "0. Scratch Notes/Testing Random Tables.md",
+    "2. Game Rules/Bestiary/Man-at-Arms.md",
+    "2. Game Rules/Bestiary/Ancient Black Dragon.md",
+    "2. Game Rules/Bestiary/Knight Errant.md",
+    "z_Assets/QuestingKnight.jpg",
+    "z_Assets/Unconfirmed 983619.crdownload",
+    "z_Assets/KnightInBattle.jpg",
+    "z_Assets/Unconfirmed 128830.crdownload",
+    "z_Assets/KnightInPartialPlate.jpg",
+    "z_Assets/Unconfirmed 25477.crdownload",
+    "z_Assets/VeteranWarrior1.jpg",
+    "z_Assets/Unconfirmed 679465.crdownload",
+    "z_Assets/Knight_02.jpg",
+    "z_Assets/Unconfirmed 787061.crdownload",
+    "z_Assets/Briggand.jpg",
+    "z_Assets/Unconfirmed 149382.crdownload",
+    "z_Assets/VeteranSoldier1.jpg",
+    "z_Assets/Unconfirmed 403031.crdownload",
+    "z_Assets/Militia.jpg",
+    "z_Assets/Unconfirmed 705439.crdownload",
+    "z_Assets/Archer2.jpg",
+    "z_Assets/Unconfirmed 263759.crdownload",
+    "z_Assets/Archer1.jpg",
+    "0. Scratch Notes/Linking Example.md",
+    "2. Session Journals/2025-11-02.md",
+    "0. Scratch Notes/Link to Me.md",
+    "1. The World/Knights of Camelot Map.md",
+    "Welcome.md",
+    "Note.md",
+    "1. The World/Scary Dungeon 1.md"
+  ]
+}
