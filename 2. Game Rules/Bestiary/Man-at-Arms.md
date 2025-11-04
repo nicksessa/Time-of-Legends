@@ -1,4 +1,3 @@
-
 ---
 alias:
 statblock: inline
@@ -9,25 +8,27 @@ tags:
 layout: Time of Legends
 image: "[[KnightInPartialPlate.jpg]]"
 name: [[Man-at-Arms]]
+type: superman
 level: 1
 size: medium
-type: Human
+race: Human
+class: Man-at-Arms
 virtueLevel: 1
 health: Unwounded
 MOVE: "Medium"
 ### ------------- STATS -----------------------
 INI: 1
-MA: 2
+MA: 1d6 + 1
 STR: 2
-MD: 1
+MD: 1d6 + 1
 TOUGH: 6
-RATT: 0
+RATT: 1d6 + 0
 RSTR: 1
-LD: 8
+LD: 2d6
 NUMATT: 1
 FATEPOINTS: 2
 ###    I, MA, S, MD, T/DR, RA, RS, #A, Ld, Fate  
-stats: [1, 1, 1, 1, 2, 1, 3, 1, 8, 2]
+stats: [1, 1, 1, 1, 6, 1, 3, 1, 8, 2]
 ### --------------------------------------------
 languages: "Latin, French"
 weapons: "Sword, Medium Shield, Bow"

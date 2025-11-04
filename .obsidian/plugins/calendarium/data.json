@@ -1,10 +1,593 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Gregorian Calendar",
+      "description": null,
+      "id": "ID_293b19496989",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_5b39ab085b98",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_da688a991b49",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_79ebbb699b1a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_58e9fb998808",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_ab9ae91b99d8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_5a0a29aa58fa",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_0b5a78597848",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "January",
+            "type": "month",
+            "length": 31,
+            "id": "ID_5998e828a9c9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 28,
+            "id": "ID_cb0a6aba9929",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2a39fbf988ea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "id": "ID_f87be9a9bb8b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "id": "ID_4b9aab4bd89a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "id": "ID_6b5b0a2ba9cb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "id": "ID_589ab80b1bea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "id": "ID_5af828898929",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "id": "ID_19198a28591b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "id": "ID_1ae9f8ca898a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "id": "ID_ab3928199ae8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "id": "ID_2b08b979c86a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 10.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_09c83aaaf828"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "timespan": 1,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_a968e8f9cb3b"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_cb394bc9da68",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Before Christ",
+            "description": "",
+            "format": "Year {{abs_year}} - {{era_name}}",
+            "date": {
+              "year": -1,
+              "month": 0,
+              "day": 31
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_ab0a986b6b99",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Anno Domini",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_fbca3b58c8fa",
+            "name": "Winter",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 91.310625,
+            "peak": 0,
+            "color": "#b7e7ed",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_0aca0bb90a0b",
+            "name": "Spring",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 91.310625,
+            "peak": 0,
+            "color": "#b7e7b0",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_497b082989ba",
+            "name": "Summer",
+            "type": "Periodic",
+            "kind": "Summer",
+            "duration": 91.310625,
+            "peak": 0,
+            "color": "#fccf3a",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_faeb88bbc89a",
+            "name": "Autumn",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 91.310625,
+            "peak": 0,
+            "color": "#d65d4c",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "year": 2025,
+        "month": 10,
+        "day": 2
+      },
+      "events": [
+        {
+          "name": "Summer Solstice",
+          "description": "<p>At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "3449318",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.</p>",
+          "id": "3449319",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The equinox marks the day and the night is equally as long.</p>",
+          "id": "3449320",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "<p>The equinox marks the day and the night is equally as long.</p>",
+          "id": "3449321",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Christmas",
+          "description": "<p>Christmas is the traditional date noting the birth of Christ.  <br></p>",
+          "id": "3449322",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 25,
+            "year": null,
+            "month": 11
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "<p>The first full moon after march 21st, which is considered the fixed date for the spring equinox.<br></p>",
+          "id": "3449323",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Easter",
+          "description": "<p>Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.<br></p>",
+          "id": "3449324",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Easter Monday",
+          "description": "<p>The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.<br></p>",
+          "id": "3449325",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Good Friday",
+          "description": "<p>Good Friday is the Friday preceding Easter. It commemorates the crucifixion of Christ.  It is the only day of the year that no mass is said.<br></p>",
+          "id": "3449326",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Pentecost",
+          "description": "<p>Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible. It is the birth of the Catholic Church.<br></p>",
+          "id": "3449327",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "New Year's Day",
+          "description": "<p>New Year's Day marks the start of a new year on the Gregorian Calendar. It starts when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.<br></p>",
+          "id": "3449328",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Valentine's Day",
+          "description": "<p>The history of St. Valentine is centered on a 3rd century Roman Catholic priest or bishop who was martyred for his faith, likely on February 14, 270 AD. Legends suggest he defied Emperor Claudius II by secretly performing marriages for Christian couples and was later imprisoned, where he performed miracles and is said to have written a farewell letter signed \"from your Valentine\" before his execution.</p>",
+          "id": "3449329",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 14,
+            "year": null,
+            "month": 1
+          },
+          "category": "secular-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "All Hallows Eve",
+          "description": "<p>The eve of All Saint's day. The French in the 14th and 15th centuries may at times dress up on All Souls day in goulish costumes to Remember our Death.<br></p>",
+          "id": "3449330",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 31,
+            "year": null,
+            "month": 9
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "<p>On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar<br></p>",
+          "id": "3449333",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": "historical-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Michaelmas",
+          "description": "<p>Michaelmas is celebrated to honor the Feast of Saint Michael, commemorating the Archangel Michael's victory over Satan.</p>",
+          "id": "3449453",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 29,
+            "year": 2025,
+            "month": 8
+          },
+          "category": "christian-holidays",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Christian Holidays",
+          "id": "christian-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_293b19496989",
   "eventPreview": false,
   "exit": {
     "saving": false,

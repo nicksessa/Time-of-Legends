@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7b311d9c0ba9b62b",
+        "id": "8c1adc339b064398",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Scratch Notes/Testing Random Tables.md",
+                "file": "2. Game Rules/Bestiary/Knight Errant.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Knight Errant"
+            }
+          },
+          {
+            "id": "5eea78ccdfcf1d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Game Rules/Bestiary/Squire.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Testing Random Tables"
+              "title": "Squire"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 273.5
   },
   "right": {
     "id": "f7ed9a91b08f86e2",
@@ -267,7 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,22 +306,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "76f107df6d5762c8",
+  "active": "5eea78ccdfcf1d90",
   "lastOpenFiles": [
+    "2. Game Rules/Bestiary/Man-at-Arms.md",
+    "2. Game Rules/Bestiary/Squire.md",
+    "0. Scratch Notes/Testing Dice Roller.md",
+    "2. Game Rules/Bestiary/Ancient Black Dragon.md",
+    "1. The Party/Sir Bors.md",
+    "1. The World/Scary Dungeon 1.md",
+    "1. The World/Knights of Camelot Map.md",
+    "2. Game Rules/Bestiary/Giacomo.md",
+    "0. Scratch Notes/Testing Data Tables.md",
+    "2. Game Rules/Bestiary/Knight Errant.md",
+    "0. Scratch Notes/Testing Random Tables.md",
+    "1. The Party/Giacomo.md",
+    "1. The Party/Sir Balin.md",
+    "data.json",
+    "0. Scratch Notes/Linking Example.md",
     "gregorian-calendar.json",
     "Unconfirmed 288400.crdownload",
-    "0. Scratch Notes/Testing Dice Roller.md",
-    "0. Scratch Notes/Testing Data Tables.md",
-    "1. The Party/Sir Bors.md",
-    "1. The Party/Sir Balin.md",
-    "0. Scratch Notes/Testing Random Tables.md",
-    "2. Game Rules/Bestiary/Man-at-Arms.md",
-    "2. Game Rules/Bestiary/Ancient Black Dragon.md",
-    "2. Game Rules/Bestiary/Knight Errant.md",
     "z_Assets/QuestingKnight.jpg",
     "z_Assets/Unconfirmed 983619.crdownload",
     "z_Assets/KnightInBattle.jpg",
@@ -312,16 +344,11 @@
     "z_Assets/VeteranSoldier1.jpg",
     "z_Assets/Unconfirmed 403031.crdownload",
     "z_Assets/Militia.jpg",
-    "z_Assets/Unconfirmed 705439.crdownload",
     "z_Assets/Archer2.jpg",
-    "z_Assets/Unconfirmed 263759.crdownload",
     "z_Assets/Archer1.jpg",
-    "0. Scratch Notes/Linking Example.md",
     "2. Session Journals/2025-11-02.md",
     "0. Scratch Notes/Link to Me.md",
-    "1. The World/Knights of Camelot Map.md",
     "Welcome.md",
-    "Note.md",
-    "1. The World/Scary Dungeon 1.md"
+    "Note.md"
   ]
 }

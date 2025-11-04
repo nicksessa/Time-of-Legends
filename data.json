@@ -1,0 +1,255 @@
+{
+  "monsters": [],
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "1a0858aafb2b",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "cb695b49cb99",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "29c98b8a399b",
+                  "properties": [
+                    "Monster"
+                  ],
+                  "conditioned": false,
+                  "fallback": "-",
+                  "hasRule": true
+                },
+                {
+                  "type": "subheading",
+                  "id": "593a79d9cbca",
+                  "properties": [
+                    "NumberEncountered",
+                    "Alignment",
+                    "Size",
+                    "Type"
+                  ],
+                  "conditioned": false,
+                  "separator": " ",
+                  "fallback": "-"
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "086bea8a594a",
+              "properties": [
+                "image"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "4b99c8f95bda",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "2ab959da39ea",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "48f968791a29",
+                  "display": "Movement",
+                  "properties": [
+                    "movement"
+                  ],
+                  "conditioned": false,
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "6b9bdaaae89a",
+                  "properties": [
+                    "Dexterity"
+                  ],
+                  "fallback": "-",
+                  "display": "Dexterity"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "68fb485999a8",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "080898aa1bda",
+                  "properties": [
+                    "ArmorClass"
+                  ],
+                  "display": "Armor Class",
+                  "conditioned": false,
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "99a85b0929f9",
+                  "properties": [
+                    "HitDice"
+                  ],
+                  "fallback": "-",
+                  "display": "Hit Dice"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "e9594b481a88",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "e8e83b3a5988",
+                  "properties": [
+                    "AttackRate"
+                  ],
+                  "fallback": "-",
+                  "display": "Attack Rate"
+                },
+                {
+                  "type": "property",
+                  "id": "4be82b88eaba",
+                  "properties": [
+                    "Damage"
+                  ],
+                  "fallback": "-",
+                  "display": "Damage"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "3b192b58b81a",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "381bab087b69",
+                  "properties": [
+                    "SavingThrow"
+                  ],
+                  "fallback": "-",
+                  "display": "Saving Throw"
+                },
+                {
+                  "type": "property",
+                  "id": "bb596978a8ea",
+                  "properties": [
+                    "Morale"
+                  ],
+                  "fallback": "-",
+                  "display": "Morale"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "0afb5aab896b",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "cafb1919da88",
+                  "properties": [
+                    "Experience"
+                  ],
+                  "fallback": "-",
+                  "display": "Experience"
+                },
+                {
+                  "type": "property",
+                  "id": "d8a99a38784a",
+                  "properties": [
+                    "Treasure"
+                  ],
+                  "fallback": "-",
+                  "display": "Treasure"
+                }
+              ]
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "text",
+          "id": "a8fb295b88f9",
+          "properties": [
+            "Description"
+          ],
+          "text": null,
+          "fallback": "-",
+          "heading": "Description",
+          "hasRule": true
+        },
+        {
+          "type": "text",
+          "id": "7a7829cb3b18",
+          "properties": [
+            "Special"
+          ],
+          "text": null,
+          "fallback": "-",
+          "hasRule": true,
+          "heading": "Special",
+          "conditioned": true
+        },
+        {
+          "type": "text",
+          "id": "d9c8b90b0afa",
+          "properties": [
+            "Source"
+          ],
+          "text": null,
+          "fallback": "-",
+          "heading": "Source",
+          "hasRule": true
+        }
+      ],
+      "name": "Hyperborea 3E Monster"
+    }
+  ],
+  "default": "Hyperborea 3E Monster",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 2,
+    "minor": 23,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": true
+}

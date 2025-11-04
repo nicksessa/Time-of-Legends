@@ -4,19 +4,20 @@ image: "[[knight_01.jpg]]"
 name: Knight_Errant
 level: 1
 size: medium
-type: Human
-virtueLevel: 2
+race: Human
+class: Knight Errant
+virtueLevel: 1
 health: Unwounded
 MOVE: "Medium"
 ### ------------- STATS -----------------------
 INI: 1
-MA: 2
+MA: 2 + 1d6
 STR: 2
-MD: 1
+MD: 1 + 1d6
 TOUGH: 6
-RATT: 0
+RATT: 0 + 1d6
 RSTR: 1
-LD: 8
+LD: 2d6
 NUMATT: 1
 FATEPOINTS: 2
 ### I, MA, S, MD, T/DR, RA, RS, #A, Ld, Fate  

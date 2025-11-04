@@ -1,5 +1,5 @@
 ---
-name: Knight_Errant
+name: Sir Balin
 Player: Nick
 Race: Human
 Role: Player
@@ -12,12 +12,12 @@ Knight Errant
 ```statblock
 layout: Time of Legends
 image: "[[knight_01.jpg]]"
-name: Knight_Errant
+name: [[Sir Balin]]
 Role: Player
 Status: Active
 level: 1
 size: medium
-type: Human
+class: Knight Banneret
 Race: Human
 virtueLevel: 2
 health: Unwounded

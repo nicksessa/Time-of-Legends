@@ -15,9 +15,9 @@ level: 1
 Player: Nick
 Role: Player
 Status: Active
-Race: Human
+race: Human
 size: medium
-type: Human
+class: Knight Bannerett
 virtueLevel: 1
 health: Unwounded
 MOVE: "Medium"
