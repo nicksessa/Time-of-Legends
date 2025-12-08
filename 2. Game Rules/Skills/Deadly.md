@@ -1,0 +1,1 @@
+Can force the opponent in melee to reroll his defense roll. (Hero only skill)

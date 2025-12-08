@@ -1,0 +1,1 @@
+Characters with this ability can command other models. Their Command Range is double their level. This is also the number of figures they can command. For example, a level 3 Commander has a range of 6 and can command up to 6 figures.

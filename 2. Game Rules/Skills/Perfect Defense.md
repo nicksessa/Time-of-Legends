@@ -1,0 +1,1 @@
+Roll two dice for defense rolls, take the best.

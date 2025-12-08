@@ -1,0 +1,1 @@
+When a Hard Boiled figure suffers a damage roll, the result is read one line higher up on the chart, even if the result was Killed/KO. However double sixes still kill outright.

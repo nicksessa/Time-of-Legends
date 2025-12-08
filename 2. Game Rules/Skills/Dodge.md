@@ -1,0 +1,1 @@
+5s and 6s explode when rolling for defense tests in melee.

@@ -1,0 +1,1 @@
+If there are more enemies within 6 inches than allies, gain an additional attack.

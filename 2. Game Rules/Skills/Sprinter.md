@@ -1,0 +1,1 @@
+A figure with this ability can triple move.

@@ -1,0 +1,1 @@
+When a figure with this skill charges, the first damage roll he makes uses three dice for damage, taking the “best” result from two of those dice.

@@ -1,0 +1,1 @@
+When making a successful defense roll, if the roll is 2 or more than needed, gain an immediate attack.

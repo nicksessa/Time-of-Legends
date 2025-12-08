@@ -1,0 +1,1 @@
+Opponents must pass a Morale check to charge you. When charging, your target must pass a Morale check or run away.

@@ -1,0 +1,310 @@
+---
+type: rules
+---
+%%
+Resources needed:
+type: place
+description: 
+fief-name: 
+fief-lord:
+fief-power:
+fief-troops:
+fief-wealth:
+fief-dissent: 
+fief-next-mission:
+fief-armor:
+fief-weapons:
+fief-horses:
+
+Tables:
+fief-defense-table
+fief-influence-table
+fief-holdings-table
+fief-law-table
+fief-power-table
+fief-wealth-table
+fief-events-table
+
+balanceOfPowerA
+balanceOfPowerB
+balanceOfPowerC
+%%
+
+
+# Fief Creation
+
+The Fief campaign differs from the regular system presented above in a number of ways. It adds a couple of additional steps to the campaign turn, plus a whole set of roleplaying elements. 
+
+You take the role of a minor noble, in command of a modest fief somewhere in medieval Europe. At your command is a warband of household retainers and peasant levy, ready to serve in the defense of their homeland. Sometimes a noble of higher station will make some demand of you, but you’re left mostly to your own devices. 
+
+Scuffles between fellow nobles are all too common, over all sorts of trivial disputes like grazing rights or family politics. The Fief campaign follows the course of such a conflict, charting the fortunes of your noble house over a number of months. 
+
+Follow the campaign steps as detailed above, except where these rules prompt you to add in an extra step. 
+
+## Terminology  
+
+**Noble:** Your player character or an NPC Lord. They may join any given battle alongside your other forces with a complex weapon, heavy armor and a horse. 
+
+**Force Pool:**  The total number of figures supported by your fief. Not all of them will participate in any given battle. 
+
+**Balance of Power:** A measure of the struggle between two opposed houses. 
+
+**Wealth:** A measure of the resources available to your house. 
+
+**Dissent:**  A measure of social unrest in your territory. 
+
+**Wealth:** An abstract value that allows you to purchase additional items, acquire more troops and suppress revolts. Ultimately it represents the purchasing power of your noble family in hard cash. Having a high wealth score is never a bad thing. Any items of valuable loot obtained in battle or during campaign events can be exchanged for +1 wealth. 
+
+## Campaign Resources  
+
+The Fief Campaign has three key resources; **Balance of Power**, **Wealth** and **Dissent**, all three of which have a significant impact on the campaign as it progresses. 
+
+**Balance of Power** represents the ongoing course of the war. A higher score indicates numerous victories and increasing superiority over your enemies on the battlefield. With a high score, you will undertake more offensive missions and ultimately bring the campaign to a close. A low Balance of Power indicates that the enemy has got the better of you, routing your troops and forcing you back into your own territory. You will fight more defensive missions and run the risk of losing your holdings all together. 
+
+The following table lays out the methods by which Balance of Power is accrued. 
++1 Balance of Power if you completed the objectives of your last mission.   
++1 Balance of Power for killing over half the enemy force in the last mission.   
+-1 Balance of Power for failing to complete the objectives of the last mission.   
+-1 Balance of Power for losing over half your force in the last mission. 
+
+When calculating the next mission, roll 1d10 on the table below.
+
+| Balance of  Power   | \+3 to +5 | \-2 to +2 | \-3 to -5 |
+| :---: | :---: | :---: | :---: |
+| 1-5 | Raid | Pitched Battle | Defensive Action |
+| 6-9 | Pitched Battle | Raid | Pitched Battle |
+| 10 | Defensive Action | Defensive Action | Raid |
+
+## Balance of Power 3 or higher
+
+| dice: 1d10 | Result           |
+| --------- | ---------------- |
+| 1-5       | Raid             |
+| 6-9       | Pitched Battle   |
+| 10        | Defensive Action |
+^balanceOfPowerA
+
+
+Roll it: `dice:[[Fief#^balanceOfPowerA]]|result|nodice`
+
+## Balance of Power -2 to +2
+
+| dice: 1d10 | Result           |
+| --------- | ---------------- |
+| 1-5       | Pitched Battle   |
+| 6-9       | Raid             |
+| 10        | Defensive Action |
+^balanceOfPowerB
+
+Roll it: `dice:[[Fief#^balanceOfPowerB]]|result|nodice`
+
+## Balance of Power -3 to -5
+
+| dice: 1d10 | Result           |
+| --------- | ---------------- |
+| 1-5       | Defensive Action |
+| 6-9       | Pitched Battle   |
+| 10        | Raid             |
+^balanceOfPowerC
+
+Roll it: `dice:[[Fief#^balanceOfPowerC]]|result|nodice`
+
+
+---
+
+## Wealth
+An abstract value that allows you to purchase additional items, acquire more troops and suppress revolts. Ultimately it represents the purchasing power of your noble family in hard cash. Having a high wealth score is never a bad thing. Any items of valuable loot obtained in battle or during campaign events can be exchanged for +1 wealth.
+
+---
+
+During Step 8 of the campaign turn, you may spend a point of wealth to perform the following actions: 
+
+* Acquire 1d4 levy figures with simple weapons or ranged weapons. 
+* Acquire 1 piece of special gear or 1 advanced weapon or 1 complex weapon or 1 set of heavy armour. 
+* Reduce dissent by 1. 
+* Reduce the recovery time of one figure by 1d6 days. 
+
+## Dissent
+
+**Dissent** is a measure of unhappiness within your borders. A relatively low dissent score might indicate an increase of crime leading to a loss of income, while a high score might lead to an armed revolt. 
+
+The following lays out the methods by which Dissent is accrued. 
+
+* +1 dissent for losing over half your force in the last mission. 
+* +1 dissent for each turn spent with a negative balance of power. 
+* +1 dissent for each turn spent with a wealth of 3 or less. 
+* -1 dissent for killing over half the enemy force in the last mission. 
+* -1 dissent for each turn spent with a positive balance of power. 
+* -1 dissent for each turn spent with a wealth of 5 or more. 
+
+During Step 9 of each campaign turn, compare your dissent score with the table below.
+
+|Dissent Score | Effect |
+|:---:|---|
+|0-5|No effect. |
+|6-10|-1 Wealth per turn. |
+|11-15|-1 Wealth per turn, `dice: 1d4` troops desert from your force pool. |
+|16-20+|Play a Take and Hold mission as the attacking side against `dice: 3d4+1` Levy figures. Any rolls of 4 when generating this force add one retainer figure to the opposing force. If you win, reset your dissent score to 0. If you lose, the campaign is over and another peasant revolt begins. |
+
+## Force Pool 
+
+The Force Pool is an abstraction of the barrack room in your home castle. It details all the figures available to you in any given battle. The size of this pool will be defined during the fief creation in the campaign set-up. 
+
+The passage of time will have an impact on figures held in the pool. Injury times will decrease for any figures inside the Force Pool as time passes during the campaign turn. If a figure is killed in battle, they are removed from the Force Pool. 
+
+A character may select any combination of figures up to his command rating to take into a battle. 
+
+If the Fief’s Force Pool is full, additional figures may not be added. 
+
+## Fief Generator   
+
+This set of tables represents the physical matter of your fief, from the lay of the land to the amount of influence you wield at court. These will have a direct impact on how you manage your holdings during the campaign turn. Roll 1d10 for each table. Alternatively, pick options up to a value of 20 Creation Points (CP) 
+
+### Defense 
+
+| dice:1d10 | Result                                                                                                                                                                                                                                                     |
+|:---------:| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1     | Ravaged by disastrous conflict, your fortifications have been pulled down and the rubble has been strewn across the landscape. At best, you have snaggle-toothed ruins to defend from invaders. \-1 Balance of Power                                       |
+|    2-4    | A lone keep has tamed the wilderness around it, defending a key road or strategic location within your holdings. This might be your seat of power, a secure location from which you can begin regaining control                                            |
+|    5-7    | Your lands are relatively defensible. The terrain might provide some natural advantage, with a scattering of well-fortified keeps and castles in strategic locations.                                                                                      |
+|    8-9    | A large castle dominates your holdings, supported by a network of smaller fortifications linked by roads or trails. The natural landscape works to your advantage, with swathes of impenetrable forest or marsh protecting key areas. \+1 Balance of Power |
+|    10     | Between the landscape and the strength of your walls, attacking your holdings would be a costly enterprise. \+2 Balance of Power                                                                                                                           |
+^fief-defense-table
+
+
+### Influence
+
+| dice: 1d10 | Result                                                                                                                                         |
+|:----------:| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1      | Even the heralds have forgotten your name.                                                                                                     |
+|    2-3     | As a minor landed knight, your holdings were acquired either by force, or the generosity of someone of higher status.                          |
+|    4-7     | You are a major landed knight, distinguishing yourself at battle or in tournaments.                                                            |
+|    8-9     | As a minor noble, you have the title of count or baron and the fealty of several knights. At court, you might be able to call on some favours. |
+|     10     | You are an earl or duke, with significant obligations at court which draw your attention away from the trouble brewing at home.                |
+^fief-influence-table
+
+
+### Holdings
+
+| dice: 1d10 | Result                                                                                                      |
+|:----------:| ----------------------------------------------------------------------------------------------------------- |
+|     1      | A single, depopulated hamlet clustered around the base of your family home. Starting force pool of `dice: 2d4+3`    |
+|    2-3     | A swathe of farmland populated with scattered hamlets and isolated farmhouses. Starting force pool of `dice: 2d4+4` |
+|    4-6     | A scattering of large villages and hamlets. Starting force pool of `dice: 2d6+3`                                    |
+|    7-8     | A single small town and supporting farming communities. Starting force pool of `dice: 2d6+4`                        |
+|     9      | A large town and supporting villages. Starting force pool of `dice: 4d4+2`                                          |
+|     10     | One or two medium sized towns and supporting communities. Starting force pool of `dice: 4d4+4`                      |
+^fief-holdings-table
+
+
+### Rule of Law
+
+| dice: 1d10 | Result                                                                                                                         |
+|:----------:| ------------------------------------------------------------------------------------------------------------------------------ |
+|     1      | Your holdings are completely lawless. You have no authority over the land or the people residing on them. \+2 Dissent          |
+|    2-5     | Bandits, raiders and outlaws rule the countryside, disrupting trade and generally making a nuisance of themselves. \+1 Dissent |
+|    6-9     | Lawlessness is confined to the fringes of your territory. \-1 Dissent                                                          |
+|     10     | You’ve managed to exert a great deal of control over your lands, crime is almost unheard of. \-2 Dissent                       |
+^fief-law-table
+
+### Military Power
+
+| dice: 1d10 | Result                                                                                                                                                                               |
+|:----------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     1      | At best, you could scrape together a few peasants with rusty spears and their grandfather’s swords. Start with `dice: 1d4+1` militia (henchmen) figures.                                                   |
+|    2-4     | A couple of loyal household retainers and a warband of part-time warriors. Start with `dice: 1d4` retainer figures and `dice: 1d4+2` militia figures.                                                   |
+|    5-6     | A small force of part-time soldiers drawn from the local peasantry. Start with `dice: 2d6+1` militia figures.                                                                                   |
+|    7-8     | A mix of household retainers, trained soldiers and militiamen. Start with `dice: 1d4+1` retainers, `dice: 2d4+1` militia figures. If a 4 is rolled on any dice, add one additional skill to any figure. |
+|    9-10    | A trained force of soldiers, including some cavalry. `dice: 1d4+1` retainers, `dice: 2d6` militia figures. If a 6 is rolled on any dice, add one horse to the warband’s stable.                         |
+^fief-power-table
+
+
+### Wealth
+
+| dice: 1d10 | Result                                                                                          |
+|:----------:| ----------------------------------------------------------------------------------------------- |
+|     1      | Your coffers are completely empty. 0 Wealth per turn.                                           |
+|    2-3     | Your family struggles to make ends meet. Starting wealth: 1.                                     |
+|    4-5     | Your family has little excess. Starting wealth: 3                                               |
+|    6-7     | You have enough to get by, but barely. Starting wealth: 3, \+1 wealth per turn.                  |
+|    8-9     | You have the funds to live as dictated by your station.  Starting wealth: 5, \+1 wealth per turn. |
+|     10     | Your family is able to live in comfort. Starting wealth: 5, \+2 wealth per turn.                 |
+^fief-wealth-table
+
+## Fief Events
+
+| dice: d30 | Result |
+|:---:|---|
+| 1 | Shortages: The basic necessities of life have become scarce. +1 Dissent. |
+| 2 | Surplus: There’s more than enough to go around. -1 Dissent. |
+| 3 | Sickness: A foul plague sweeps across the land. \+1 Dissent, \-1 Balance of Power, Roll 1d6 for each figure in the force pool. On a 4-6, the figure requires that many days recovery time. |
+| 4 | Mercenaries: A free company has set up shop in your territory. <br/>Roll 1d6: <br/>1: Add 1d4+1 Levy figures with light armor to the enemy force in the next battle. <br/>2-5: No effect. <br/>6: Add 1d4+1 Levy figures with light armor to your force pool, \-1 Wealth per turn. |
+| 5 | Refugees: Peasants fleeing the conflict assail your towns and fortifications. \-1 Wealth per turn, \+1 Dissent, \-1 Balance of Power. |
+| 6 | Raiding Parties: Bandits and outlaws are taking the opportunity to indiscriminately assault travelers in the region. <br/>Roll 1d6: <br/>1: \-1 Balance of Power. <br/>2-5: No effect. <br/>6: \+1 Balance of Power. |
+| 7 | Hostages: Members of your family have been taken prisoner by the enemy in a bid to bring the conflict to a decisive end. \-1 Balance of Power per subsequent turn. Instead of playing a normal mission, you may play a special mission to rescue the hostages. If you win, gain \+1 Balance of Power. If you lose, \+3 Dissent. |
+| 8 | Royal Decree: The monarch has stepped in, issuing an edict to hopefully bring an end to hostilities. <br/>Roll 1d6:  <br/>1: You are in the wrong, \-1 Balance of Power. <br/>2-5: No effect. <br/>6: The royal family stands with you. \+1 Balance of Power. Gain an additional retainer with a complex weapon and heavy armor. |
+| 9 | Religious Decree: Someone has petitioned the Pope, attempting to bring the Papacy’s might to bear. <br/>Roll 1d6:  <br/>1: The church finds you wanting. \-1 Balance of Power. <br/>2-5: No effect. <br/>6: The church lends its support. \+1 Wealth per turn, \+1 Balance of Power. |
+| 10 | Outbreak of Heresy: The instability in your lands has created a fertile breeding ground for recidivists and unbelievers. \+1 dissent. |
+| 11 | Tax Collectors: Y our liege is demanding his due. \-1 Wealth per turn. |
+| 12 | Tournament: With hordes of marauding raiders raping and pillaging the countryside, you have staged a chivalric pageant to distract the local populace. \-1 Wealth, \-1 Dissent. |
+| 13 | Returned from Exile: A family member has returned from distant lands in your hour of need. Gain one retainer with one additional skill and an advanced weapon. |
+| 14 | Assassins: Your enemies have turned to some hired killers to do their dirty work. <br/>Roll 1d6:  <br/>1: Narrow Escape: You evade death, but at what cost? Roll once on the injury table. <br/>2-5: Botched job: No effect. <br/>6: Assassins killed: The assassins heads look rather fetching on your battlements. \-1 Dissent. |
+| 15 | Marriage: You, or a close family member, have managed to find themselves a bride. <br/>Roll 1d6: <br/>1: Bad match. \-1 Wealth a turn, \+1 Dissent. <br/>2-5:  Happy couple: \-1 Dissent. <br/>6: Strong Alliance: Gain an additional retainer and 1d4 levy figures. |
+| 16 | Plague: A horrible disease has swept across your lands. \-1 Force Pool, \-1 Wealth. |
+| 17 | New Castle: The fresh-cut battlements of a new fortification crown a nearby hilltop. \+1 Balance of Power, \+1 Starting Force Pool. |
+| 18 | Recent Conflict: The surrounding region has been embroiled in a period of bloody warfare. <br/> Roll 1d6: <br/>1: Your lands have suffered horribly, \-1 Balance of Power, \+1 Dissent. <br/>2-5: You managed to steer clear of the battlefields. <br/>6: You emerged from the storm of war relatively unscathed. \+1 Balance of Power, \-1 Dissent. |
+| 19 | Minor Miracle: A statue of a saint has started weeping blood, bringing hordes of pilgrims and nearby worthies to your manor’s chapel. \+1 Wealth. |
+| 20 | Natural Disaster: A sign of Mother Nature’s awesome power has wrought hell upon your lands. \-1 Wealth per turn, \-1 Balance of Power, \+1 Dissent. |
+| 21 | Bountiful Harvest: Your fields are burgeoned with ripe crops. \+1 Force Pool, \-1 Dissent, \+1 Wealth per turn. |
+| 22 | Foreign Campaign: Your liege has called his banners, hauling the cream of your soldiery off to some distant land. \-1d4+1 starting figures. |
+| 23 | Royal Visit: A member of the royal family and their entourage have stopped at your castle. <br/>Roll 1d6: <br/>1: Disastrous Banquet \-1 Wealth. <br/>2-5: Unscathed. <br/>6: Royal Support: \+1 Balance of Power. |
+| 24 | Peasant Revolt: A recent uprising has left the populace cowed and a few unlucky rebels swinging from iron gibbets. \-3 Dissent. \-1 Balance of Power. |
+| 25 | New Trade Route: Passing merchants have used your lands as a rest stop in the past. \+1 Wealth per turn. |
+| 26 | New Lord: You are recent arrival in these lands, taking the reigns after some crisis. \-1 Balance of Power, \+1 Dissent. |
+| 27 | Campaign Veterans: Your soldiers are the veterans of numerous conflicts. \+1 skill for all figures. |
+| 28 | Legends of Chivalry: By some happy chance, your lands are home to some piece of medieval legend, attracting many errant knights and glory seekers. 1d4 retainers in starting force pool. |
+| 29 | Reign of Terror: You rule your holdings with an iron fist. \+1d4 starting levy figures, \+1 dissent. |
+| 30 | Ancient Treasure Horde: You’ve unearthed a great horde buried by some long since forgotten noble. \+3 starting wealth. |
+^fiefEvents
+
+
+### Flashpoints
+
+| dice: d100 | Result |
+|:---:|---|
+| 1-14 | Rival Claimant: A challenge to your right to rule has arisen in a neighboring fief.  |
+| 15-28 | Strategic Location:  A nearby location is of considerable importance to you and your neighbors.  |
+| 29-42 | Valuable Resources: The region is particularly rich in resources.  |
+| 43-56 | Regional Unrest:  Large-scale conflict has wracked the region, drawing everyone into the maelstrom.  |
+| 57-70 | Historical Grievance: Your family has made some powerful enemies.  |
+| 71-84 | Religious Instability: Heresy and non-conformism run rife in the region.  |
+| 85-100 | Economic Strife: Shortages of goods and vital supplies have thrown the region into chaos. |
+^fief-flashpoint-table
+
+
+# Fief Starting Forces
+
+| dice: 1d6 | Result                                         |
+| --------- | ---------------------------------------------- |
+| 1         | 1 Hero and 1 Henchmen                          |
+| 2         | 1 Hero and 2 Henchmen                          |
+| 3         | 1 Hero and 2 Henchmen with light armor         |
+| 4         | 1 Hero and 3 Henchmen                          |
+| 5         | 1 Mounted Hero and 2 Henchmen with light armor |
+| 6         | 1 Mounted Hero and 2 Mounted Henchmen          | 
+^startingFiefTroops
+
+## Roll three times on the table above
+
+`dice: [[Fief#^startingFiefTroops]]`
+
+`dice: [[Fief#^startingFiefTroops]]`
+
+`dice: [[Fief#^startingFiefTroops]]`
+
+
+
+
+
+
+

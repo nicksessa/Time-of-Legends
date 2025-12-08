@@ -2,27 +2,8 @@
   "mapMarkers": [
     {
       "id": "KOC_Game_Map",
-      "lastAccessed": 1762021399582,
+      "lastAccessed": 1764712566551,
       "markers": [
-        {
-          "id": "ID_89d92a5a88e9",
-          "type": "default",
-          "loc": [
-            2518.714354586482,
-            3166.4241661533597
-          ],
-          "layer": "%5B%5BKOC_Map.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6358281458139277,
-            -0.41385382099679296
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
         {
           "id": "ID_6b085afb0998",
           "type": "Dungeon",
@@ -44,22 +25,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_3aca9b3a5b38",
-          "type": "Castle",
-          "loc": [
-            2463.9356761314366,
-            2896.6629291306917
-          ],
-          "layer": "%5B%5BKOC_Map.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_6b8a4a09582a",
           "type": "Encounter",
           "loc": [
@@ -76,34 +41,42 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_b9fb9b98b898",
-          "type": "Dungeon",
+          "id": "ID_59c97b095809",
+          "type": "Castle",
           "loc": [
-            2842.1273186316794,
-            3375.020666603391
+            5228,
+            2856
           ],
+          "link": "Lothian",
           "layer": "%5B%5BKOC_Map.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1.5,
+          "percent": [
+            0.20276073966554015,
+            -0.3037096822250469
+          ],
+          "description": "King Lot's Realm",
+          "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_08288ba9aa0a",
-          "type": "Encounter",
+          "id": "ID_d809dbbb9bf8",
+          "type": "Knight",
           "loc": [
-            2807.6875,
-            3604.5
+            2306,
+            3828
           ],
+          "link": "Giacomo",
           "layer": "%5B%5BKOC_Map.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2717675460222996,
+            -0.1339622278521343
+          ],
           "description": null,
-          "minZoom": -1.5,
+          "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         }
@@ -111,7 +84,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "1. The World/Knights of Camelot Map.md"
+        "1. The World/England/Knights of Camelot Map.md"
       ]
     }
   ],
@@ -221,6 +194,22 @@
       "tags": [],
       "minZoom": -1.5,
       "maxZoom": null
+    },
+    {
+      "type": "Knight",
+      "iconName": "chess-knight",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
@@ -240,7 +229,59 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -2,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[KOC_Map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[KOC_Map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": -0.5,
+    "minZoom": -3,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "KOC_Game_Map",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        6086,
+        4980
+      ]
+    ],
+    "width": "95%",
+    "lat": 3043,
+    "long": 2490,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

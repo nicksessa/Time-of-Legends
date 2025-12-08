@@ -1,0 +1,1 @@
+Instead of moving, gain +1 to the Ranged Attack Roll.

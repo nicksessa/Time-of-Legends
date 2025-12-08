@@ -39,7 +39,7 @@ This is how you link
 
 
 
-![[Knight Errant]]
+![[zzKnight Errant]]
 
 
 | INI | MA  | STR | MD  | T/DR | R-ATT | R-STR | LD  | #ATT | FP  |

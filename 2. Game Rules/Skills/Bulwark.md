@@ -1,0 +1,1 @@
+Gain +2 to Defense Rolls this round, but may not attack next round.

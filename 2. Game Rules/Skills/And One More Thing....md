@@ -1,0 +1,1 @@
+If killed or taken out of action, make one free attack before being removed from play.

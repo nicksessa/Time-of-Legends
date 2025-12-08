@@ -1,0 +1,1 @@
+Gain an additional attack on the first combat round when charging.

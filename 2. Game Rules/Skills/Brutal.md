@@ -1,0 +1,1 @@
+5s and 6s explode when rolling to hit in melee. +1 STR when charging.

@@ -1,0 +1,1 @@
+4's, 5's and 6's for Initiative, ATT, DEF, RANGED and MORALE can be rerolled again. (explode)

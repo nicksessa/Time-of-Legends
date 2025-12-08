@@ -1,0 +1,1 @@
+Ability to sneak and hide. The X value is the target number needed to spot a hidden character.  Example: Stealth (6) would require an observer to roll a 6 on a d6 to spot the stealthy character. Additionally, after deployment you can make two move actions before the game starts.

@@ -1,0 +1,1 @@
+Gain +2 ATT and +4 DMG, but cannot roll for Defense

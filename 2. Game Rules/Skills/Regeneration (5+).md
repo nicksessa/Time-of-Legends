@@ -1,0 +1,1 @@
+At the end of each turn, a model with a wound can attempt to heal one wound level by rolling a d6.  If the roll is greater than or equal to the number in parenthesis, the character will heal one wound level.  For example, a seriously wounded character would, after a successful roll, improve to a light wound.

@@ -1,0 +1,1 @@
+This character does not need to stay in range of a Leader.

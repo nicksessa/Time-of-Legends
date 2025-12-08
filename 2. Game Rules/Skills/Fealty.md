@@ -1,0 +1,1 @@
+Ignore the first failed Morale check. (knights and sergeants only)

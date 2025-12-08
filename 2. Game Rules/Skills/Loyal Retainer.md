@@ -1,0 +1,1 @@
+If your Captain is killed, you may instead remove one retainer within 3 inches instead.

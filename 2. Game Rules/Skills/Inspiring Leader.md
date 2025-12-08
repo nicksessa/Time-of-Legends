@@ -1,0 +1,1 @@
+All allies within Command range and line of sight gain +1 to Morale.

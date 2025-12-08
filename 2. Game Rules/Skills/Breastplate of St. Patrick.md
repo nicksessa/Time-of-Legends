@@ -1,0 +1,1 @@
+Unarmored figures with this ability count as having 1d6+1 DR for the duration of the battle.

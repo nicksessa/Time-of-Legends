@@ -1,0 +1,1 @@
+Opponent archers have an additional -1 to hit skirmishers. Models with this ability can Fire, then move.

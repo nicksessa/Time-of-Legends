@@ -1,0 +1,1 @@
+When a figure with this ability succeeds at a DEF test by 2 or more, he may immediately attack the figure that attacked him.

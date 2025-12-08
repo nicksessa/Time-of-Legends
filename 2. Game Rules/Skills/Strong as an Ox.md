@@ -1,0 +1,1 @@
+Opponent has a -1 penalty to DR or Toughness.  This skill can be taken up to three times for a total penalty of -3 to the opponent's DR.

@@ -1,0 +1,1 @@
+Roll a d6, on a 4+ you may move up to 3 inches away from your opponent. This ends the melee for these characters.

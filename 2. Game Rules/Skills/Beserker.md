@@ -1,0 +1,1 @@
+When killed, can remain fighting on a roll of 4+. Health status is "critical" and he cannot be healed.

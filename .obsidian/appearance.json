@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "ITS_Alternative_Themes"
-  ]
+  ],
+  "textFontFamily": "Times New Roman",
+  "interfaceFontFamily": "Century,Times New Roman,Cambria",
+  "monospaceFontFamily": "Courier New"
 }

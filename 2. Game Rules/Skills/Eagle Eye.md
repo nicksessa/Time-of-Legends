@@ -1,0 +1,1 @@
+Reroll any missed ranged attacks.

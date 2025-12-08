@@ -1,0 +1,1 @@
+Move through difficult terrain at no penalty.

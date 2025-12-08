@@ -1,0 +1,1 @@
+Move medium. Dismounted on 1-2. (3+ to stay in the saddle)

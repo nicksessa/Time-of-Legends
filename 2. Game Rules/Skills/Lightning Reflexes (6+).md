@@ -1,0 +1,1 @@
+Can attempt to dodge attacks from Ranged Weapons. Succeed on a 6+. Taking this skill additional times lowers the die roll needed to succeed by 1. For example, the second time taking this skill, the figure would need a 5+. This skill may only be taken a total of 3 times.

@@ -1,0 +1,1 @@
+Reroll 1’s to hit when making ranged attacks.

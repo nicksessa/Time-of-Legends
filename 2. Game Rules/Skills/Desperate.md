@@ -1,0 +1,1 @@
+When outnumbered, this figure gains +1 to INI, ATT and DEF.

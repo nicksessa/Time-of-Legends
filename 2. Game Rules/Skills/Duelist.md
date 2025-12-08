@@ -1,0 +1,1 @@
+When rolling for damage, users with this ability may use the higher die for the location instead of the lower die.

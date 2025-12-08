@@ -1,0 +1,1 @@
+Figures with this skill gain an immediate free attack when they kill or take an opponent out of action.

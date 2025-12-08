@@ -1,0 +1,1 @@
+Ignore Morale penalties when making Morale/Leadership checks.

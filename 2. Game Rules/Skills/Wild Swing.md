@@ -1,0 +1,1 @@
+Gain an additional attack while also lowering ATT and DEF skills by 2. You may not use rerolls on either attack. Additionally, you auto fail on rolls of 1's and 2's.

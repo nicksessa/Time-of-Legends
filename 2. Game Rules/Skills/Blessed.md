@@ -1,0 +1,1 @@
+Reroll any roll. The second roll cannot be rerolled. One time use. Characters can have multiple Blessings.

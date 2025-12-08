@@ -1,0 +1,1 @@
+Once per game, may reroll any Attack roll or Defense roll.

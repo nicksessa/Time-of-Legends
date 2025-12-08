@@ -1,0 +1,1 @@
+Allies within Command range may reroll any failed Morale checks.

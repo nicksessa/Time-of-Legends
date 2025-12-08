@@ -1,0 +1,1 @@
+Once per game you can either A) Rally all allied routed figures or B) Gain a +1 on all Morale checks until the end of the round.

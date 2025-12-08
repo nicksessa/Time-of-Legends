@@ -1,0 +1,1 @@
+Can make one additional attack per round.

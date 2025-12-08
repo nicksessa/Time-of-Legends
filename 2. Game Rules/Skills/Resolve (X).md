@@ -1,0 +1,1 @@
+At any time, once per round, you may increase by (X) points INI, ATT, DEF or MORALE/Leadership.

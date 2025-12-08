@@ -1,0 +1,1 @@
+May deploy hidden in a piece of area terrain at the start of battle.  If playing without miniatures, this character can make an attack before the battle starts.

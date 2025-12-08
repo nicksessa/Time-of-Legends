@@ -1,0 +1,1 @@
+5s and 6s explode when making ranged attacks.

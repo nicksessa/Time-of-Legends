@@ -1,0 +1,1 @@
+A charged figure with this ability, who has not acted yet in this turn, may make a single move action away from the charging attacker. The attacker may still catch this figure if they have enough movement.  For example, a mounted knight could still catch a man on foot.

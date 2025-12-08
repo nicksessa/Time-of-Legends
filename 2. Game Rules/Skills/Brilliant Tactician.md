@@ -1,0 +1,1 @@
+Gain a +1 when rolling the Tactical roll.

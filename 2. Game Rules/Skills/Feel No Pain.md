@@ -1,0 +1,1 @@
+ Ignore the negative effects of wounds, until killed or taken out of action.

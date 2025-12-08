@@ -1,0 +1,1 @@
+Once per round, figures with this skill may heal one would level from any adjacent figure, including himself. To do so, he must roll a d6 and score greater than or equal to 6. Taking this skill multiple times will lower the difficulty by one each time. There is no limit to how many times this skill can be taken but a roll of a 1 is always a failure.

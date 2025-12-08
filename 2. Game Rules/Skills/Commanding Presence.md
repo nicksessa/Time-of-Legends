@@ -1,0 +1,1 @@
+Gain +2 Leadership and Command range is 12 instead of 9.

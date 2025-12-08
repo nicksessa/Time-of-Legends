@@ -1,0 +1,1 @@
+May reroll any failed Morale roll each time required to roll.

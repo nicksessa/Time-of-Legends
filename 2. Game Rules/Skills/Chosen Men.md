@@ -1,0 +1,1 @@
+Once per round, can add +1 to ATT or DEF, but not both.

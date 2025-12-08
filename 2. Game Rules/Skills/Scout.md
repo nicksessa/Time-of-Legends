@@ -1,0 +1,1 @@
+After deployment, you can make a move action before the game starts.

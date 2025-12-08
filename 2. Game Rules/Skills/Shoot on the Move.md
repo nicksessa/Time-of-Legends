@@ -1,0 +1,1 @@
+Figures with this ability/skill do not suffer the -1 to hit with a ranged weapon while moving. In addition, allies are only hit on a 1 when determining who his hit when firing into melee.

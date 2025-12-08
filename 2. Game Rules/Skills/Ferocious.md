@@ -1,0 +1,1 @@
+Instead of inflicting a 'Stun/shock', cause a Light Wound.

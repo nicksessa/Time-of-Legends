@@ -1,0 +1,1 @@
+Subtract 2 ATT to gain +2 STR.

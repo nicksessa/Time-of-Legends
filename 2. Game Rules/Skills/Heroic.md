@@ -1,0 +1,1 @@
+Each time this figure defeats an opponent in Melee, all allies within 6 inches gain +1 Morale or Leadership.

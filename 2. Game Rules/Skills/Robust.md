@@ -1,0 +1,1 @@
+This character has one extra wound level. (Hero only)

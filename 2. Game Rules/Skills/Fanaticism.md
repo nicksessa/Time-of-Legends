@@ -1,0 +1,1 @@
+Roll with advantage when making Fear checks.

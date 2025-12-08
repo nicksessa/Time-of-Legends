@@ -1,0 +1,3 @@
+When the “I have Gold” event card is played on a character with the Mercenary trait, they do not roll to leave the field; they will always change sides.
+
+Any Mercenary that enters a building will attempt to loot it. Roll a d6.  On a roll of a one, there is a Mishap.  Roll 2D6 if this roll is higher than the current turn number the Mercenary will spend the one turn looting the house.  If this number is equal to or lower than the current turn number then the mercenary is removed from the game; they have found wine and become inebriated and fallen asleep.

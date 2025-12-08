@@ -1,0 +1,1 @@
+May deploy anywhere on the table but at least 9 inches from any enemy.
