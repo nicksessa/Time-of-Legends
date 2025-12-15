@@ -153,21 +153,21 @@ Damage: +3
 Range: Medium
 Cost: 25
 Availability (1d6): 4+
-Notes: Armor piercing. Ignore 1 point of Damage Resistance. Requires one round to reload.
+Notes: Armor piercing 1.  Requires one round to reload.
 
 ## Medium Crossbow
 Damage: +4
 Range: Long
 Cost: 30
 Availability (1d6): 4+
-Notes: Armor piercing. Ignores 1d3 points of Damage Resistance. Requires one round to reload.
+Notes: Armor Piercing 1. Requires one round to reload.
 
 ## Heavy Crossbow
 Damage: +5
 Range: Long
 Cost: 35
 Availability (1d6): 5+
-Notes: Armor piercing. Ignores 1d6+1 points of Damage Resistance. Requires two rounds to reload.
+Notes: Armor Piercing 2.  Requires two rounds to reload.
 
 ## Spear
 Damage: +1
@@ -200,10 +200,10 @@ Notes:
 # Weapon Traits
 
 ## Armor Piercing 1
-If a 6 is rolled to hit, add 1d6 STR to the damage roll.  Military Picks have this trait with no extra cost.
+If a 6 is rolled to hit, add 1d6 STR to the damage roll.  
 
 ## Armor Piercing 2
-If a 6 is rolled to hit, add 1d6+1 STR to the damage roll.  Two handed Military Picks have this trait with no extra cost.
+If a 6 is rolled to hit, add 1d6+1 STR to the damage roll.  
 
 ## Fine Blade
 May reroll 1s when rolling to hit in melee. The second result must stand, even if another 1 is rolled.  Cost is tripled.

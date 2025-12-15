@@ -114,7 +114,7 @@ INPUT[imageSuggester(optionQuery("z_Assets/Images"), showcase):image]
 
 
 ```statblock
-monster: Fred
+monster: Ogre-Guard
 ```
 
 

@@ -29,11 +29,11 @@
 | **Name**            | **Damage** | **Range** | **Cost** | **Notes**                                                                                   |
 |:------------------- | ---------- | --------- | -------- | ------------------------------------------------------------------------------------------- |
 | [[Weapons#Dagger\|Dagger]]          | 1          | short     | 2       |                                                                                             |
-| [[Weapons#Heavy Crossbow\|Heavy Crossbow]]  | 5          | long      | 35      | Armor piercing.  Ignores 1d6+1 points of Damage Resistance.  Requires two rounds to reload. |
+| [[Weapons#Heavy Crossbow\|Heavy Crossbow]]  | 5          | long      | 35      | [[Weapons#Armor Piercing 2\|Armor Piercing 2]].  Requires two rounds to reload. |
 | [[Weapons#Javelin\|Javelin]]         | 1          | medium    | 5       | May throw after running.                                                                    |
-| [[Weapons#Light Crossbow\|Light Crossbow]]   | 3          | medium    | 25      | Armor piercing.  Ignore 1 point of Damage Resistance.  Requires one round to reload.        |
+| [[Weapons#Light Crossbow\|Light Crossbow]]   | 3          | medium    | 25      | [[Weapons#Armor Piercing 1\|Armor Piercing 1]].  Requires one round to reload.        |
 | [[Weapons#Longbow\|Longbow]]          | 3          | long      | 20      | May fire twice in one round if the model does not move.                                     |
-| [[Weapons#Medium Crossbow\|Medium Crossbow]]  | 4          | long      | 30      | Armor piercing.  Ignores 1d3 points of Damage Resistance.  Requires one round to reload.    |
+| [[Weapons#Medium Crossbow\|Medium Crossbow]]  | 4          | long      | 30      | [[Weapons#Armor Piercing 1\|Armor Piercing 1]].  Requires one round to reload.    |
 | [[Weapons#Regular Bow\|Regular Bow]]    | 2          | medium    | 15      | May fire twice in one round if the model does not move.                                     |
 | [[Weapons#Short Bow\|Short Bow]]       | 1          | short     | 10       | May fire twice in one round if the model does not move.                                     |
 | [[Weapons#Spear\|Spear]]            | 2          | short     | 10       |                                                                                             |
@@ -44,8 +44,8 @@
 
 | **Trait**        | **Description**                                                                                                        |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Armor Piercing 1 | Reduces opponent's armor DR by 1 point.                                                                               |
-| Armor Piercing 2 | Reduces opponent's armor DR by 2 points.                                                                                                                       |
+| Armor Piercing 1 | If a 6 is rolled to hit, add 1d6 STR to the damage roll.                                                                               |
+| Armor Piercing 2 | If a 6 is rolled to hit, add 1d6+1 STR to the damage roll.                                                                                                                        |
 | Exquisite Blade  | 5's and 6's explode when rolling to hit. Cost is x10                                                                   |
 | Fine Blade       | May reroll 1s when rolling to hit in melee. The second result must stand, even if another 1 is rolled. Cost is tripled |
 | Finely Balanced  | Rolling a one to hit is not an automatic failure.                                                                      |
