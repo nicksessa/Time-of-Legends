@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
+                "file": "2. Game Rules/Tables/Traps.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Special Features and Events"
+              "title": "Traps"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -424,11 +424,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0bcd2ba6d76df478",
+  "active": "e63970ad6f4053b4",
   "lastOpenFiles": [
     "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
-    "2. Game Rules/Tables/Random Dungeon Names.md",
+    "2. Game Rules/Tables/Traps.md",
     "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
+    "2. Game Rules/Tables/Random Dungeon Names.md",
     "2. Game Rules/Tables/Random Names/Random Dwarf Names.md",
     "2. Game Rules/Church Blessings.md",
     "2. Game Rules/Equipment/Weapons.md",
@@ -452,7 +453,6 @@
     "README.md",
     "1. The World/England/Knights of Camelot Map.md",
     "2. Game Rules/Treasure/Loot - Battlefield.md",
-    "2. Game Rules/Equipment/General Store.md",
     "z_Assets/Pasted image 20251130175439.png",
     "z_Assets/Images/DungeonMaps/shattered_sepulcher_of_the_red_prince.png",
     "1. The World/England/Dungeons",
