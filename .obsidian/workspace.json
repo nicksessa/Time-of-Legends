@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Tables/Random Dungeon Names.md",
-                "mode": "preview",
+                "file": "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Random Dungeon Names"
+              "title": "Special Features and Events"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 262.5
   },
   "right": {
     "id": "f7ed9a91b08f86e2",
@@ -424,13 +424,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "141a9d169b4997c7",
+  "active": "0bcd2ba6d76df478",
   "lastOpenFiles": [
-    "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
+    "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
     "2. Game Rules/Tables/Random Dungeon Names.md",
+    "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
     "2. Game Rules/Tables/Random Names/Random Dwarf Names.md",
     "2. Game Rules/Church Blessings.md",
-    "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
     "2. Game Rules/Equipment/Weapons.md",
     "2. Game Rules/Treasure/Loot - Arthurian.md",
     "2. Game Rules/Tables/Random Encounters",
