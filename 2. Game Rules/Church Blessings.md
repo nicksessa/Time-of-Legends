@@ -19,6 +19,19 @@ Suggested Donation: 10 Silver
 | Aristocrat       | 10 GP              | 
  
 
+## General Blessing
+
+Instead of rolling on the chart below, you can receive a Blessing that will allow a character to add +1 to any single die roll.  You can have multiple blessings of this type.  You can gain blessings at churches and shrines by donating one gold.  You can also gain blessings by donating food and or gold to peasants and hermits.
+
+## Relics
+
+Relics allow you to reroll a single roll.  
+
+## Plans
+
+Each plan has a value (1-6). You may spend a plan to adjust the die to the value of the plan, instead of rolling.  You can have any number of plans.
+
+
 All of the following abilities are one use only.
 
 | dice: 1d66% | Result                                                                                                      |

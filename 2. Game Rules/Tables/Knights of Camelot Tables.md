@@ -138,3 +138,6 @@ Whenever a Knight is defeated by another Knight or King in a fight (and some cha
 
 If the PK strays from the agreed terms, he loses 12 VP. Only certain Knight’s Fates may be refused by PKs: these are marked with an asterisk (*) after the number on the Knight’s Fate chart. Other Fates may not be refused (meaning 12 VP cannot be lost for “disobeying” them). Certain Knight’s Fates have no game effects when chosen for vanquished NPKs; to facilitate matters, those that can be meaningfully chosen for NPKs are marked with a dagger (†).
 
+## Ransom
+
+Ransoming Knights: If you have a castle and you have captured a knight, you may ransom him.  Demand a sum of GOLD. Roll 1D6 and keep adding the total until you have rolled a 1 three times.  If the total exceeds your demand, receive the sum of GOLD you demanded. Otherwise, you must keep the knight.

@@ -12,7 +12,7 @@ type: rules
 
 
 | Equipment | B | D | E | W | Stock | Cost (Buy) | Cost (Sell) | Special Rules |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|---|---|---|
 | Bandages | Y | Y | Y | Y | 5 | 50 Each | 5 | 1D6 Bandages available. See notes. |
 | Bear Trap | Y | Y | Y | Y | 6 | 100 | 5 | 1d3 Bear-Traps available; See notes. |
 | Boots | Y | Y | Y | Y | 4 | 20 | 10 | - |
@@ -33,6 +33,8 @@ type: rules
 | Provincial Map | Y | Y | Y | Y | 7 | 300 | 75 | See notes. |
 | Provisions | Y | Y | Y | Y | 5 | 50 Each | - | 1D6 Provisions available. See notes. |
 | Rope | Y | Y | Y | Y | 5 | 30 | 5 | Use to escape pit; after each use roll 1D6, on 1 or 2 the rope breaks and is discarded |
+| Relic |  |  |  |  |  | varies |  | See notes  |
+| Plan |  |  |  |  |  | special |  | See notes  |
 | Salt | Y | Y | N | Y | 4 | 50 | 5 | See notes. |
 | Salt-Meat | Y | Y | N | Y | 6 | 60 Each | - | 1d6 rations of Salt-Meat available; See notes. |
 | Storm Lantern | Y | Y | Y | Y | 8 | 500 | 50 | See notes. |
@@ -40,7 +42,16 @@ type: rules
 | Torches | Y | Y | Y | Y | 4 | 25 Each. | - | 1d6 Torches available. See notes. |
 | Trance Stone | Y | Y | Y | Y | 7 | 300 | 75 | If your Warrior does nothing, including move, for one turn, and there are no Monsters on the board, he enters a trance and regains 1 Wound. |
 
+
 # Description
+
+## Relics
+
+Relics allow you to reroll a single roll.  
+
+## Plans
+
+Each plan has a value (1-6). You may spend a plan to adjust the die to the value of the plan, instead of rolling.  You can have any number of plans.
 
 ## Bandages
 
@@ -56,6 +67,8 @@ Bear-Traps do not affect Monsters with the Ethereal, Large Monster or Fly Specia
 ## Casks of Beer
 
 -1 to Weapon Skill; -1 Initiative, +1 Strength (Dwarf +2 Strength); +1 on Fear rolls: effects lasts 1 turn; if Wizard drinks he can't cast spells for 2 turns.
+
+Cunning Plan (Council of War): Outside of combat, if two or more warriors consume 2 BEER they manage to come up with a cunning plan.  Roll 1D6 and save the result as a PLAN.  This dice roll can be used at some point in the future in place of a roll that has been made.
 
 ## Church Candles
 

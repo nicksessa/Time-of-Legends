@@ -53,7 +53,7 @@ Winning a joust nets you 1d6x10 Silver.
 Roll a `dice: 1d6`.  On a 6, Roll on the Special Reward Table below.
  
 
-| dice: 1d6 |                      Result                      |
+| dice: 1d6 |                      Special Rewards                      |
 |:---------:|:------------------------------------------------:|
 |     1     |                 A fine Warhorse!                 |
 |     2     |                `dice: 1d10` Gold                 | 
@@ -66,3 +66,7 @@ Roll a `dice: 1d6`.  On a 6, Roll on the Special Reward Table below.
 **Land** The knight has been gifted a small manor on a small area of land in a distant corner of the lord's realm. The knight can send captured NPC knights there to be held in the dungeon awaiting ransom. He can also stock this manor with his retinue.
 
 In addition, at the start of an adventure the knight can send a message asking for a little spending cash. Roll `dice: 1d66%` and receive that much x10 in Silver. However, on any roll of a double, the money was stolen by bandits or otherwise lost in transit.
+
+## Ransom
+
+Ransoming Knights: If you have a castle and you have captured a knight, you may ransom him.  Demand a sum of GOLD. Roll 1D6 and keep adding the total until you have rolled a 1 three times.  If the total exceeds your demand, receive the sum of GOLD you demanded. Otherwise, you must keep the knight.

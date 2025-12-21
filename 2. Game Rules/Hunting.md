@@ -1,6 +1,113 @@
-# Hunting
+---
+type: rules
+---
 
-The hunt takes place from 10 AM to 6 PM. (8 hours)
+# Countryside
+
+| Country Game                     |
+| -------------------------------- |
+| `dice: [[Hunting#^countryGame]]` | 
+
+
+| dice: 1d6 | Result       | Food |
+|:---------:| ------------ |:----:|
+|     1     | Complication |  0   |
+|    2-3    | Nothing      |  0   |
+|    4-5    | Rabbit       |  1   |
+|     6     | Deer         | 1d3  |
+^countryGame
+
+# Forest
+
+| Forest Game                     | 
+| ------------------------------- |
+| `dice: [[Hunting#^forestGame]]` |
+
+
+| dice: 1d6 | Result       | Food  |
+|:---------:| ------------ |:-----:|
+|     1     | Complication |   0   |
+|    2-3    | Nothing      |   0   |
+|     4     | Deer         |  1d3  |
+|     5     | Stag         |  1d6  |
+|     6     | Boar         | 1d6+2 |
+^forestGame
+
+# Mountain
+
+| Mountain Game                     | 
+| --------------------------------- |
+| `dice: [[Hunting#^mountainGame]]` |
+
+
+
+| dice: 1d6 | Result        | Food |
+|:---------:| ------------- |:----:|
+|     1     | Complication  |  0   |
+|    2-3    | Nothing       |  0   |
+|     4     | Small Game    |  1   |
+|     5     | Mountain Goat | 1d3  |
+|     6     | Deer          | 1d3  |
+^mountainGame
+
+## Complications
+
+| Complications                      | 
+| ---------------------------------- |
+| `dice: [[Hunting#^complications]]` |
+
+| dice: 1d6 | Complication              |
+|:---------:| ------------------------- |
+|     1     | Hunter becomes the hunted. Roll on the Animal Encounter Table |
+|    2-3    | Took a bad fall (light wound)    |
+|     4     | Skunk - Make a Luck Test or be sprayed.    |
+|    5-6    | Foul Weather                                |
+^complications
+
+| Animal Encounter                             |
+| -------------------------------------------- |
+| `dice: [[Encounters#^animalEncounterTable]]` | 
+
+
+# Foraging
+
+| Foraging                      |
+| ----------------------------- |
+| `dice: [[Hunting#^foraging]]` | 
+
+
+| dice: 1d6 | Result                                                                | Food |
+|:---------:| --------------------------------------------------------------------- |:----:|
+|     1     | You eat an unhealthy-looking mushroom. Roll on the poisoned table     |  0   |
+|     2     | You find a swarm of bees and take a Light Wound.                      |  1   |
+|     3     | You find some barely edible brambles. Luck test or take a Light Wound |  1   |
+|     4     | You find some berries.                                                |  1   |
+|     5     | You find an abandoned vegetable garden.                               |  2   |
+| 6          | You find an apple tree.                                                                      |  1d6    |
+^foraging
+
+
+# Fishing
+
+Note, if the weather is rainy, then add +1 to the roll.
+
+| Fishing                     |
+| -------------------------------- |
+| `dice: [[Hunting#^fishing]]` | 
+
+
+| dice: 1d6 | Result  | Food |
+|:---------:| ------- |:----:|
+|     1      |  Complication - Roll on the Animal Encounter Table | 0  |
+|    2-3    | Nothing |  0   |
+|     4     | Perch   |  1   |
+|     5     | Trout   |  2   |
+|     6     | Pike    |  3   |
+^fishing
+
+# Royal Hunting
+
+Organized hunting takes place from 10 AM to 6 PM. (8 hours)
 
 Each hour make a Hunting Roll by rolling 2d6, needing 10+ to find an animal. If found, roll on the chart below to see what kind of animal is found. Also roll 1d6 every hour for Misfortune, which occurs on a 1.
 
