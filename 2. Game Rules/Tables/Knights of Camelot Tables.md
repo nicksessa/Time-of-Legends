@@ -2,66 +2,6 @@
 type: rules
 ---
 
-
-
-
-# Tables
-
-
-## Oaths
-
-| dice: 2d6 | Type / Description |
-|:---:|------|
-| 2 | Never Yield - The PK must never give up once combat has begun. If the PK is defeated, he or she must either be killed or lose 12 VP for Yielding and breaking this Oath. The PK may, however, agree to stop a combat in progress due to a Combat Event, since this is not Yielding (see page 62). |
-| 3 | Use no Weapons - One die must always be used in combat, as the PK may not use a sword or lance. |
-| 4 | Always Help Ladies - Whenever the PK encounters a Lady, any of her Requests (such as for Aid or Escort) must be granted. When receiving a Message of Lady Summons, the PK must immediately travel to her Castle by the shortest route (if he serves a Lady). When hearing of an Adventure involving a Lady, the PK must pursue it. When hearing of an insult to a Lady, the PK must challenge the Knight who insulted her. |
-| 5 | Always Grant Requests - The PK must grant any requests for Aid (including Escorts) or Prayers made of him. |
-| 6 | Fight Without Advantage - The PK must always fight chivalrously against Knightly opponents (see COMBAT: CHIVALRY, page 57). |
-| 7 | Spare the Lives of Knights - The PK must not slay any Knights he or she defeats  |
-| 8 | Serve Only Present Lord - The PK may never change Lords (thus, may never become an Arthurian Knight if not already one…). |
-| 9 | Never Break Oaths - No Oaths sworn by the PK may be willingly broken. This Oath also protects the other Oaths: in order to be released from any Oath, the PK must first be released from this one. |
-| 10 | Always Travel Alone - The PK may never have companions (a Dwarf, Mascot, or Man-at-Arms), nor may Escorts be performed; the PK will not permit others (comrades) to join him. |
-| 11 | Do Not Eat - The PK must not eat anything. This will have the same effect as (but not the awards of) a Penance of fasting (all combat rolls are divided in half, rounded down). This Oath may only be broken at the end of a turn. |
-| 12 | Never Avoid Encounters - No Encounter may ever be avoided. The PK may not flee as a result of a Combat Event either |
-^oaths
-
-### Roll It!
-
-`dice: [[Knights of Camelot Tables#^oaths]]`
-
-### Oaths
-An Oath is an indicated course of action to which the PK must adhere. Oaths may be forced on a PK by Knight’s Fate, by a Trick, as a result of meeting a Lady, King, or Hermit, or during a prison release. The Oath should be noted on the PK’s Adventure Journal and erased once broken or removed. Several Oaths may be sworn at one time.
-
-### Breaking Oaths
-If a sworn Oath is broken, the PK immediately loses 12 VP. A PK may be Tricked (see Oaths table) into breaking an Oath. A PK cannot break an Oath voluntarily unless he has enough VP to pay the penalty.
-
-### Removing Oaths
-An Oath may be removed without penalty by a Goodly Hermit Man, either through a Request or by obtaining a “release from oath/heal” reaction from him. A Wood Nymph will also release a PK from any Oaths.
-
-## Tricks
-
-| dice: 2d6 | Type / Description |
-|:---:|------|
-| 2 | Abandon Lady (Lord) - The PK is tricked into abandoning his Lady (including an Enchantress), which results in the loss of 6 VP (12 VP if under Summons) and the Service Award. If the PK is not serving a Lady, the PK will abandon his Lord, for a loss of 6 VP (12 VP if under Summons). |
-| 3 | Imprisonment - The PK is immediately imprisoned; a Castle is deployed on top of the PK if he is not already at one. No Appeal may be made to the Jailor (see Appeal to Jailor table). |
-| 4 | Fight Enemy Unarmed - A random NPK must be fought immediately by the unarmed PK. No combat awards are given, but the PK has a chance to request chivalrous combat. |
-| 5 | Break (Swear) an Oath - One of the PK’s sworn Oaths must be broken (with the consequent VP loss). If no Oaths have been sworn, the PK must swear one. |
-| 6 | Lose Horses - The PK is Tricked into giving away his horse (and that of his Dwarf, if applicable). |
-| 7 | Tell a Lie - This most common Trick results in the PK telling a lie; however, only 1 VP is lost (instead of the normal 6 VP loss). |
-| 8 | Fight an Enemy - A random NPK must be fought by the PK, alone. The PK’s companions and comrades may not aid in the combat. If the PK is defeated, he will suffer Knight’s Fate. |
-| 9 | Lose Lance - The PK is Tricked into giving away his lance (plus the extra one, if applicable). |
-| 10 | Escort Pilgrims - As if a Penance, the PK must Escort Pilgrims (see Requests table) by the shortest path to a randomly determined Shrine (see Shrine table). No awards are given for completing the Escort. If the PK refuses or if a detour is made, the PK loses 12 VP. |
-| 11 | Deliver a Message - The PK must immediately travel to a randomly determined royal Castle, and must obtain a friendly Castle reaction to deliver a message. The PK will receive no awards for completing the task, and will lose 12 VP for detouring or refusing the task. The exact message need not be determined. |
-| 12 | Prophecy - A randomly determined Adventure is given to the PK as a Prophecy. The PK will receive awards for the performance of the Adventure. |
-^tricks
-
-### Roll It!
-
-`dice: [[Knights of Camelot Tables#^tricks]]`
-
-### Tricks
-An encountered person may attempt to Trick a PK. The PK may attempt to escape a Trick (Luck Test). If a PK successfully escapes a Hermit’s Trick, the PK will gain 6 VP; this is the only case where an award results from escaping a Trick. If the attempt fails, the PK loses 6 VP and the Trick is randomly determined.
-
 ## Combat Events
 
 | dice: 2d6 | Type / Description |
@@ -82,31 +22,6 @@ An encountered person may attempt to Trick a PK. The PK may attempt to escape a 
 ### Roll It!
 
 `dice: [[Knights of Camelot Tables#^combatEvents]]`
-
-### Combat Rules
-* Party Combat: 56
-* Non-Player Knight Party Combat: 56
-* Replacing Equipment: 57
-* Knightly Methods of Combat: 57
-* Chivalry: 57-58
-* Town Combat: 58
-* Wasteland Combat: 58
-* Combat Aboard Ships: 58
-* Fights: 58-59
-* Mascot Combat: 59
-* Breaking Lance: 59
-* Combat Events: 59-61
-* Victory: 61
-* Awards: 62
-* Defeat: 62
-* Slain Player Knights: 62
-* Fleeing: 62
-* Yielding: 62
-* Breaking Off: 62
-* Challenges: 63-64
-* Tournaments: 64
-* Knight’s Fate: 64-66
-* Poisoned Wounds: 66
 
 ## Knight's Fate
 

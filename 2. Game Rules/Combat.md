@@ -1,40 +1,41 @@
 ---
+type: rules
 sidebar_position: 3
 ---
 
-## Deployment
+# Deployment
 
-### The Strategic Roll
+## The Strategic Roll
 **Roll Leadership** - Both sides roll a d6 and add the Discipline score of the model with the highest Discipline on their side.  If any characters have the Leadership ability, add +1 to the roll.  No more than one leader per side counts.  Reroll ties until there is a winner.  The side that won may choose to go first or second.  The side that lost the roll, begins by deploying one model from his side.  After this model is placed, his opponent places a model and so on until all models are deployed.
 
 **Solo Variant** - If the player wins the roll, he may deploy all of his adversaries first, then his models AND he gets to act first.  If the adversaries win, deploy the heroes first, then the adversaries AND they get to act first.
 
-## The Combat Round
+# The Combat Round
 
-### Initiative (Option 1)
+## Initiative (Option 1)
 After resolving the Surprise Roll, each side rolls a d6.  The side with the highest roll goes first.  This roll is modified by the highest Leadership or Discipline score per side.
 
-### Initiative (Option 2)
-Each side rolls a d6 and adds the Initiative value of the character with the highest Initiative value.  Higest modified roll gets to go first.
+## Initiative (Option 2)
+Each side rolls a d6 and adds the Initiative value of the character with the highest Initiative value.  Highest modified roll gets to go first.
 
-### Initiative (Option 3) - Card Initiative
+## Initiative (Option 3) - Card Initiative
 
-Assign miniatures to cards, shuffel, then activate per card drawn.  Add a Wild Card to the deck, and when it comes up, draw from the Wild Card Deck.  (Or roll on the Wild Card Table)
+Assign miniatures to cards, shuffle, then activate per card drawn.  Add a Wild Card to the deck, and when it comes up, draw from the Wild Card Deck.  (Or roll on the Wild Card Table)
 
-## Melee
+# Melee
 Melee as per Confrontation. Attacker rolls 1d6 and adds ATT.  Defender rolls 1d6 and adds DEF.  If the total attack is greater than the total defense, the attack hits and the attacker can roll on the Wound Table.  If the total attack is double or more the total defense, the attacker rolls twice on the Wound Table and take the best result.  If the attacker rolls anything but a one, AND the defender rolls a one on the defense roll, the attacker gets to roll twice on the Wound Table and take the best result of the two rolls.  If the Attacker rolls a one on the attack roll and the Defender does NOT roll a one on defense, the attacker is hit and the defender gets to roll once on the Wound Table.  If both the attacker and defender roll a one, then everyone laughs.
 
-| Situation | Num of Rolls |
-|---|---|
-| ATT =< DEF | No Roll|
-|ATT > DEF | 1 Roll |
-|ATT doubles DEF | 2 Rolls|
-|ATT roll > 1 AND DEF = 1| 2 Rolls|
-|ATT = 1 AND DEF > 1 | Attacker is hit |
-|ATT = 1 AND DEF = 1 | Everyone laughs |
+| Situation                | Num of Rolls    |
+| ------------------------ | --------------- |
+| ATT =< DEF               | No Roll         |
+| ATT > DEF                | 1 Roll          |
+| ATT doubles DEF          | 2 Rolls         |
+| ATT roll > 1 AND DEF = 1 | 2 Rolls         |
+| ATT = 1 AND DEF > 1      | Attacker is hit |
+| ATT = 1 AND DEF = 1      | Everyone laughs |
 
 ## Optional Rule - Melee Combat Events
-Roll on the table below when either combatatant rolls a natural 1, either to hit or defend.
+Roll on the table below when either combatant rolls a natural 1, either to hit or defend.
 
 | Roll 2d6 | Result |
 |---|---|
@@ -100,11 +101,11 @@ Before the player acts, roll a 1d6.  On a 1, there is a combat event.  Roll on t
 ## Ranged
 Characters may use ranged weapons during their turn.  Roll a d6, add modifiers and compare to the target numbers in the table below.  The target number must be met or exceeded in order to score a hit and thereby roll on the Wound Table.  There may be modifiers to this roll.  If you roll double or more the target number, double the strength of the weapon.  For example, if the target number is 5 and you roll (after modifiers) 10 or more to hit, a STR 3 weapon would become STR 6 for this wound roll.
 
-|Range|Target Number|
-|:---:|:---:|
-|Short|5|
-|Medium|7|
-|Long|9|
+| Range  | Target Number |
+|:------:|:-------------:|
+| Short  |       5       |
+| Medium |       7       |
+|  Long  |       9       |
 
 Wound penalties modify this roll.
 
@@ -140,14 +141,14 @@ Type: (dice: 1d66%)  `dice: 1d66%`
 
 ## Exceptional Wounds
 
-|Roll|Result|Modifier|
-|:---:|:---:|:---:|
-|1,1|Nothing|No Modifiers|
-|2,2|Shock|-1 for one round|
-|3,3|Light Wound|-1|
-|4,4|Serious Wound|-2|
-|5,5|Critical Wound|-3|
-|6,6|Killed <br/> (Out of Action for Heroes)|
+| Roll |                 Result                  |     Modifier     |
+|:----:|:---------------------------------------:|:----------------:|
+| 1,1  |                 Nothing                 |   No Modifiers   |
+| 2,2  |                  Shock                  | -1 for one round |
+| 3,3  |               Light Wound               |        -1        |
+| 4,4  |              Serious Wound              |        -2        |
+| 5,5  |             Critical Wound              |        -3        |
+| 6,6  | Killed <br/> (Out of Action for Heroes) |                  |
 
 Penalties are applied to Initiative, Melee Attack/Defense.
 
@@ -156,14 +157,14 @@ All penalties, except for shock, last until healed.
 **Optional Rule - Roll for Stun**
 If hit in the head, in addition to the usual wound roll, roll on the following chart:
 
-|Roll 1d6|Result|
-|:---:|:---:|
-|4+|No effect|
-|3|Stunned for 1 round|
-|2|Stunned for 1d2 rounds|
-|1|Stunned for 1d3 rounds|
+| Roll 1d6 |         Result         |
+|:--------:|:----------------------:|
+|    4+    |       No effect        |
+|    3     |  Stunned for 1 round   |
+|    2     | Stunned for 1d2 rounds | 
+|    1     | Stunned for 1d3 rounds |
 
-If wearing an open-faced helm, add +1 to the roll. <br/>
+If wearing an open-faced helm, add +1 to the roll. 
 If wearing a fully enclosed helm, add +2 to the roll.
 
 ## Breaking From Combat

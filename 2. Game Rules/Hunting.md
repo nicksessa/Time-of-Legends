@@ -9,12 +9,12 @@ type: rules
 | `dice: [[Hunting#^countryGame]]` | 
 
 
-| dice: 1d6 | Result       | Food |
-|:---------:| ------------ |:----:|
-|     1     | Complication |  0   |
-|    2-3    | Nothing      |  0   |
-|    4-5    | Rabbit       |  1   |
-|     6     | Deer         | 1d3  |
+| dice: 1d6 | Result       | Food  |
+|:---------:| ------------ |:-----:|
+|     1     | Complication |   0   |
+|    2-3    | Nothing      |   0   |
+|    4-5    | Rabbit       |   1   |
+|     6     | Deer         | 1d3+1 |
 ^countryGame
 
 # Forest
@@ -28,8 +28,8 @@ type: rules
 |:---------:| ------------ |:-----:|
 |     1     | Complication |   0   |
 |    2-3    | Nothing      |   0   |
-|     4     | Deer         |  1d3  |
-|     5     | Stag         |  1d6  |
+|     4     | Deer         | 1d3+1 |
+|     5     | Stag         | 1d6+1 |
 |     6     | Boar         | 1d6+2 |
 ^forestGame
 
@@ -41,13 +41,13 @@ type: rules
 
 
 
-| dice: 1d6 | Result        | Food |
-|:---------:| ------------- |:----:|
-|     1     | Complication  |  0   |
-|    2-3    | Nothing       |  0   |
-|     4     | Small Game    |  1   |
-|     5     | Mountain Goat | 1d3  |
-|     6     | Deer          | 1d3  |
+| dice: 1d6 | Result        | Food  |
+|:---------:| ------------- |:-----:|
+|     1     | Complication  |   0   |
+|    2-3    | Nothing       |   0   |
+|     4     | Small Game    |   1   |
+|     5     | Mountain Goat |  1d3  |
+|     6     | Deer          | 1d3+1 |
 ^mountainGame
 
 ## Complications
@@ -91,9 +91,9 @@ type: rules
 
 Note, if the weather is rainy, then add +1 to the roll.
 
-| Fishing                     |
-| -------------------------------- |
-| `dice: [[Hunting#^fishing]]` | 
+| Fishing                      | 
+| ---------------------------- |
+| `dice: [[Hunting#^fishing]]` |
 
 
 | dice: 1d6 | Result  | Food |
@@ -131,12 +131,12 @@ Every 2 hunting dogs (5 SP each) +1 Group has a Hunter, Warden or Forester +2
 ## Misfortune Table
 
 | **Roll 1d6** | **Result** |
-| --- | --- |
+| :---: | --- |
 | 1 | **Swamp** The group rides after the hounds and runs smack into a swamp. Each dog has a 1 in 6 chance of being drowned in the bogs. Each rider must make a Luck Test (+1 for Master Horseman) or his horse will get stuck. Stuck horses can be pulled out by more successful mounts or the PCs will have to return to the hunting lodge for help. |
 | 2 | **Trap** Someone has set a trap for you. A wire has been tied between two trees across the path. The lead rider must pass a Luck Test in order to spot it in time. Otherwise your horse stumbles and you are thrown taking a STR1 wound roll on the Wound Table. |
 | 3 | **Pasture** The dogs lead the group out of the woods and right into a pasture with a nasty bull. Each round, the bull will charge one of the dogs, goring it on a 2 in 6 chance. Make a Luck Test to retrieve the dogs and leave the pasture. If you kill the bull, the Farmer finds out about it and demands that the local Lord hold you accountable for his loss. 2d6 Silver should cover it. |
 | 4 | **Ambush** One of your enemies (or your lord’s) has hired a band of 1d3+2 ruffians to attack you. They are armed with Light Crossbows, Hand axes, daggers and wear Padded Armor. In addition, they have four large wolf-hounds who will attack the hunting dogs. Each combat round, roll a d6 for wolf-hound and hunting dog. On a 6 they kill their opponent. If the hunting dogs kill all the wolf-hounds, they will come to your aid. The ruffians flee if reduced to half their number. <br/><br/>**Ruffian** Attack: +3, STR: 1(4), DEF: 1, TOUGH: 2(4), # ATT: 1, Ranged: +1, Ranged Damage: 4 |
-| 5 | **Spring Water** A cool drink would be just the thing right now! Roll 1d6 for all that drink from the spring.<br/><br/> 1.**Foul water** Pass a Luck Test or suffer a Light Wound. <br/>2-5. **Normal Water.** <br/>6. **Exceptional Water** Heal a wound level. |
+| 5 | **Spring Water** A cool drink would be just the thing right now! Roll 1d6 for all that drink from the spring.<br/><br/>1.**Foul water** Pass a Luck Test or suffer a Light Wound. <br/>2-5. **Normal Water.** <br/>6.**Exceptional Water** Heal a wound level. |
 | 6 | **A Challenge** The group arrives in an isolated clearing. In the middle stands the party’s enemy with two henchmen. He challenges the best warrior in the group to a fight. If he is killed, his henchmen run back to the lodge and report that their boss was murdered by the party. When the PCs return, everyone is arrested. Make a Luck Roll. If successful, the Lord doesn’t believe the henchmen and throws them in jail instead. Otherwise, the PCs are thrown in prison. |
 
 ## Rewards

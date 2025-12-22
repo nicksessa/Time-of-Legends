@@ -2,7 +2,7 @@
 type: rules
 ---
 
-## Countryside and Wasteland Encounters
+# Countryside and Wasteland Encounters
 
 | Countryside and Wasteland Encounter                       | 
 | --------------------------------------------------------- |
@@ -23,29 +23,29 @@ type: rules
 |    12     | King - Refer to the King Reactions table                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 ^CountrysideAndWastelandEncounters
 
-### Mad Knight
+## Mad Knight
 
 | Name       | Virtue |  I  | ATT | STR | DEF | DR  | AIM | COU | DIS | #A  | Special Abilities |
 | ---------- |:------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----------------:|
 | Mad Knight |   0    |  3  |  3  |  3  |  1  |  3  |  0  |  8  |  1  |  2  |  [[Fearless]], [[Feel No Pain]]                 |
 
 
-### Civilization Modifier
+## Civilization Modifier
 When determining a countryside encounter, the roll is adjusted to reflect the state of civilization within and outside of the Arthurian
 realm. Resolve the specific encounter using the appropriate chart.
 * In Kingdoms 2–4 (Surluise, Scotland, and Lothian), 1 is subtracted from the roll to reflect the lack of civilization in the northern Kingdoms. A 1 is treated as a 2.
 * In Kingdom 7 (Logres), 1 is added to the roll, to reflect the civilized state of Arthur’s Kingdom. A 13 is treated as a 12.
 * Countryside encounters in other lands are rolled normally.
 
-### Wasteland Encounters
+## Wasteland Encounters
 Wasteland encounters use the Countryside Encounters Chart, subtracting 1 from the die roll to reflect the hazards of the terrain (a net result of 1 is treated as a 2).
 
-### Wasteland Combat
+## Wasteland Combat
 Neither horses nor lances may be used during combat while in a wasteland. During the turn in which the PK moves out of a wasteland,
 he is considered to still be on foot. If the reaction of an encountered person or creature is to attack, a successful Luck Test is required to
 remount before combat (this does not apply to an offered challenge, rather than an attack reaction)
 
-## Forest Encounters
+# Forest Encounters
 
 | Forest Encounter                          |
 | ----------------------------------------- |
@@ -65,7 +65,7 @@ remount before combat (this does not apply to an offered challenge, rather than 
 (Encounters occur only on a roll of 1 in Forests, regardless of the PK’s party’s size)
 
 
-## River Encounters
+# River Encounters
 
 | River Encounter                          | 
 | ---------------------------------------- |
@@ -83,7 +83,7 @@ remount before combat (this does not apply to an offered challenge, rather than 
 ^riverEncounters
 
 
-## Shrine Encounters
+# Shrine Encounters
 
 Encounters occur only on a roll of 1 in Shrines, regardless of the PK’s party’s size. The encounter is automatically a Goodly Hermit Man who may not be avoided.
 
@@ -105,7 +105,7 @@ There are four Shrines on the map. To randomly determine a Shrine, roll a die:
 | `dice: [[Encounters#^randomShrineTable]]` | 
 
 
-## Sea Encounters
+# Sea Encounters
 
 | Sea Encounter                  |
 | ------------------------------------- |
@@ -128,12 +128,12 @@ There are four Shrines on the map. To randomly determine a Shrine, roll a die:
 (Encounters at sea cannot be avoided)
 
 
-### Combat Aboard Ships
+## Combat Aboard Ships
 
 Ships are drawn at random from the appropriate chits. Each Ship counter has a number in the upper left hand corner which represents the WL total of the captain and crew of the ship. The ship’s crew will enter combat once the PK and his party are defeated. The ship’s crew fights as a single individual with 2 attack dice. Knights involved in combat at sea may not use lances or fight on horseback. They may only attack with sword and shield. They do not suffer Combat Events.
 
 
-## Town Encounters
+# Town Encounters
 
 | Town Encounter                         | 
 | -------------------------------------- |
@@ -154,10 +154,10 @@ Ships are drawn at random from the appropriate chits. Each Ship counter has a nu
 | 12 | King & Knights - Refer to the King reactions table. |
 ^townEncounters
 
-### Combat in Town
+## Combat in Town
 Neither horses nor lances may be used during combat while in a town, except for challenges, which are resolved in the Town’s lists.
 
-## [[Animal Encounters]]
+# [[Animal Encounters]]
 
 | Animal Encounter                             |
 | -------------------------------------------- |
@@ -174,3 +174,7 @@ Neither horses nor lances may be used during combat while in a town, except for 
 ^animalEncounterTable
 
 For boars and harts, see [[Hunting]].
+
+
+# Monster Encounters
+

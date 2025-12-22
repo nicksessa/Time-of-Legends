@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Bestiary/Monsters/Troll-War.md",
-                "mode": "preview",
+                "file": "2. Game Rules/Equipment/General Store.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Troll-War"
+              "title": "General Store"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Encounters.md",
+                "file": "2. Game Rules/Knight's Fate.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encounters"
+              "title": "Knight's Fate"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Hunting.md",
+                "file": "2. Game Rules/Prison.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hunting"
+              "title": "Prison"
             }
           }
         ],
@@ -426,33 +426,39 @@
   },
   "active": "0bcd2ba6d76df478",
   "lastOpenFiles": [
-    "2. Game Rules/Encounters.md",
-    "2. Game Rules/Hunting.md",
-    "2. Game Rules/Combat.md",
-    "2. Game Rules/Bestiary/Animals/List of Animals.md",
-    "2. Game Rules/Tables/Knights of Camelot Tables.md",
-    "2. Game Rules/Jousting.md",
-    "2. Game Rules/Equipment/Items.md",
-    "2. Game Rules/Equipment/General Store.md",
-    "2. Game Rules/Church Blessings.md",
-    "2. Game Rules/Events.md",
-    "2. Game Rules/Travel/Travel Hazards.md",
-    "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
-    "2. Game Rules/Enchantements.md",
-    "2. Game Rules/Treasure/Loot - Warhammer Quest.md",
-    "2. Game Rules/Treasure/Loot - Bretonian.md",
-    "2. Game Rules/Treasure/Loot - Battlefield.md",
-    "2. Game Rules/Treasure/Loot - Arthurian.md",
-    "2. Game Rules/Tables/Traps.md",
-    "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
-    "2. Game Rules/Tables/Random Dungeon Names.md",
-    "2. Game Rules/Tables/Random Names/Random Dwarf Names.md",
-    "2. Game Rules/Equipment/Weapons.md",
-    "2. Game Rules/Tables/Random Encounters",
-    "2. Game Rules/Equipment/Weapon & Armor Tables.md",
-    "2. Game Rules/Bestiary/Monsters/Troll-War.md",
     "2. Game Rules/Reactions.md",
-    "2. Game Rules/Bestiary/Monsters/Red Troll.md",
+    "2. Game Rules/Prison.md",
+    "2. Game Rules/Tables/Character Background.md",
+    "2. Game Rules/Tables/Knights of Camelot Tables.md",
+    "2. Game Rules/Tables/Lady in Service Rewards.md",
+    "2. Game Rules/Tables/List of Saints.md",
+    "2. Game Rules/Tables/Military Campaigns.md",
+    "2. Game Rules/Tables/Random Deployment.md",
+    "2. Game Rules/Tables/Random Dungeon Names.md",
+    "2. Game Rules/Tables/Random Outlaw Band.md",
+    "2. Game Rules/Tables/Traps.md",
+    "2. Game Rules/Tables/Random Knight.md",
+    "2. Game Rules/Knight's Fate.md",
+    "2. Game Rules/Combat Events.md",
+    "2. Game Rules/Combat.md",
+    "2. Game Rules/Encounters.md",
+    "2. Game Rules/Oaths and Tricks.md",
+    "2. Game Rules/Tables/Random Names/Random Name for Henchmen.md",
+    "2. Game Rules/Tables/Random Names/Random Dwarf Names.md",
+    "2. Game Rules/Tables/Random Names/Random French Male Names.md",
+    "2. Game Rules/Tables/Random Names/Random Name Generator for Inns.md",
+    "2. Game Rules/Equipment/General Store.md",
+    "2. Game Rules/Hunting.md",
+    "2. Game Rules/Bestiary/Monsters/Troll-War.md",
+    "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
+    "z_Assets/Images/whiteSalamander.avif",
+    "z_Assets/Images/Unconfirmed 378125.crdownload",
+    "z_Assets/Images/fireSalamander.avif",
+    "z_Assets/Images/Unconfirmed 109580.crdownload",
+    "z_Assets/Images/salamander.jpg",
+    "z_Assets/Images/Unconfirmed 739312.crdownload",
+    "2. Game Rules/Bestiary/Animals/List of Animals.md",
+    "2. Game Rules/Tables/Random Encounters",
     "z_Assets/Pasted image 20251130175439.png",
     "z_Assets/Images/DungeonMaps/shattered_sepulcher_of_the_red_prince.png",
     "1. The World/England/Dungeons",
@@ -464,13 +470,7 @@
     "z_Assets/Images/Grunwald_1410.jpg",
     "z_Assets/Images/DungeonMaps",
     "2. Game Rules/Travel",
-    "2. Game Rules/Settlements",
-    "2. Game Rules/Tables/Warhammer Quest",
-    "Untitled",
     "z_Assets/Images/HeavySpearman.jpg",
-    "z_Assets/Images/AbelTheIllTempered.jpg",
-    "z_Assets/Images/troll_02.jpg",
-    "z_Assets/Images/troll_01.jpg",
-    "z_Assets/Images/red_troll_01.jpg"
+    "z_Assets/Images/AbelTheIllTempered.jpg"
   ]
 }
