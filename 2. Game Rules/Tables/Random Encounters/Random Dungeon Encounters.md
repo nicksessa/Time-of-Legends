@@ -35,8 +35,7 @@ type: rules
 |     12      | Empty if corridor.  Otherwise, the room is a small dragon's lair (see the Boss table for dragon rules). The small dragon counts a s a boss and may be the final boss.                                           |
 ^roomContents
 
-Note: When a room or corridor is empty, maybe it just appears so… You may search an empty room to determine whether there is something hidden. You might get lucky and find hidden treasures, or even clues
-to the darkest secrets of the dungeon. Rules for exploration are on p 53. However, searching is a dangerous activity. The characters slow down, remove their helmets to see better, sheathe their weapons to inspect things, and their constant tapping on walls and floors may attract unwanted attention.
+Note regarding empty rooms and corridors:  Not all is as it appears.  You can search these seemingly empty places and perhaps uncover something valuable, like treasure or a clue.  Or, perhaps something finds you and wants your valuables!  Do you feel lucky?
 
 
 # Encounters:
