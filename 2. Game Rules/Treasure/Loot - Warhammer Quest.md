@@ -50,7 +50,7 @@ Objective Room Weapons and Armor:
 
 When treasure is found, the actual type discovered must be determined.  In the Roleplay Book there is a small chart before the treasure section that randomized the treasure type, and these Master Charts are an expansion on that concept.  When Treasure is called for, roll on the appropriate table below with the dice shown.  If a Table is called for, then consult that table and roll on it for the treasure discovered.
 
-You have found:
+# Treasure
 
 |                                                     | 
 | --------------------------------------------------- |

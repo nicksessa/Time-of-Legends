@@ -13,7 +13,7 @@ sidebar_position: 3
 # The Combat Round
 
 ## Initiative (Option 1)
-After resolving the Surprise Roll, each side rolls a d6.  The side with the highest roll goes first.  This roll is modified by the highest Leadership or Discipline score per side.
+After resolving the [[2. Turn Sequence#Roll for Surprise|Surprise Roll]], each side rolls a d6.  The side with the highest roll goes first.  This roll is modified by the highest Leadership or Discipline score per side.
 
 ## Initiative (Option 2)
 Each side rolls a d6 and adds the Initiative value of the character with the highest Initiative value.  Highest modified roll gets to go first.
@@ -21,6 +21,11 @@ Each side rolls a d6 and adds the Initiative value of the character with the hig
 ## Initiative (Option 3) - Card Initiative
 
 Assign miniatures to cards, shuffle, then activate per card drawn.  Add a Wild Card to the deck, and when it comes up, draw from the Wild Card Deck.  (Or roll on the Wild Card Table)
+
+## Initiative (Option 4)
+
+The players always go first, unless they are surprised.  If surprised, they cannot act for the first turn and will always go after their adversaries.
+
 
 # Melee
 Melee as per Confrontation. Attacker rolls 1d6 and adds ATT.  Defender rolls 1d6 and adds DEF.  If the total attack is greater than the total defense, the attack hits and the attacker can roll on the Wound Table.  If the total attack is double or more the total defense, the attacker rolls twice on the Wound Table and take the best result.  If the attacker rolls anything but a one, AND the defender rolls a one on the defense roll, the attacker gets to roll twice on the Wound Table and take the best result of the two rolls.  If the Attacker rolls a one on the attack roll and the Defender does NOT roll a one on defense, the attacker is hit and the defender gets to roll once on the Wound Table.  If both the attacker and defender roll a one, then everyone laughs.
@@ -34,7 +39,7 @@ Melee as per Confrontation. Attacker rolls 1d6 and adds ATT.  Defender rolls 1d6
 | ATT = 1 AND DEF > 1      | Attacker is hit |
 | ATT = 1 AND DEF = 1      | Everyone laughs |
 
-## Optional Rule - Melee Combat Events
+## Optional Rule - Melee Combat Events for Duels
 Roll on the table below when either combatant rolls a natural 1, either to hit or defend.
 
 | Roll 2d6 | Result |
@@ -75,7 +80,7 @@ Explanation of Events
 
 12. A random knight joins to fight for the PC.  He will assist in combat if the PC is defeated.  
 
-## Combat Events
+## Combat Events During Skirmishes
 
 Before the player acts, roll a 1d6.  On a 1, there is a combat event.  Roll on the table below.
 
@@ -150,9 +155,13 @@ Type: (dice: 1d66%)  `dice: 1d66%`
 | 5,5  |             Critical Wound              |        -3        |
 | 6,6  | Killed <br/> (Out of Action for Heroes) |                  |
 
-Penalties are applied to Initiative, Melee Attack/Defense.
+## Wound Penalties
 
-All penalties, except for shock, last until healed.
+Penalties are applied to Initiative, Attack, Defense and Aim.
+
+Shock penalties do not "stack".  If a figure suffering from Shock receives a wound, the Shocked condition is removed.
+
+All penalties, except for Shock, last until healed.  A figure already suffering from Shock who receives another Shock result, will be pushed back one inch.  The figure who inflicted the Shock result may follow up or use this opportunity to break from combat.  Figures who are pushed back but are prevented by an obstacle of some sort (wall, tree, etc.), fall prone instead.
 
 **Optional Rule - Roll for Stun**
 If hit in the head, in addition to the usual wound roll, roll on the following chart:
@@ -166,6 +175,10 @@ If hit in the head, in addition to the usual wound roll, roll on the following c
 
 If wearing an open-faced helm, add +1 to the roll. 
 If wearing a fully enclosed helm, add +2 to the roll.
+
+## Worsening State of Health
+
+If an already wounded figure receives another wound (remember that Shock is not a wound), that is less than or equal to its current wound level, his wound level worsens by one level.  For example, a Seriously wounded figure receives either a Light or Serious wound, now becomes Critically wounded.  Similarly, a Critically wounded figure who receives a Light, Serious or another Critical, becomes Killed in Action or Out of Action as the case may be.
 
 ## Breaking From Combat
 
