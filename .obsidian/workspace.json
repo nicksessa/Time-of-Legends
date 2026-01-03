@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/New Equipment.md",
-                "mode": "source",
+                "file": "2. Game Rules/Tables/Random Names/Random Warrior Priest Names.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New Equipment"
+              "title": "Random Warrior Priest Names"
             }
           }
         ],
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 300.5
   },
   "right": {
     "id": "f7ed9a91b08f86e2",
@@ -426,8 +426,10 @@
   },
   "active": "0bcd2ba6d76df478",
   "lastOpenFiles": [
-    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Magic Treasure.md",
+    "2. Game Rules/Tables/Random Names/Random Trollslayer Name.md",
+    "2. Game Rules/Tables/Random Names/Random Warrior Priest Names.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/New Equipment.md",
+    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Magic Treasure.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Undead Monsters.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Dark Wizards.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Other Monsters.md",
@@ -452,8 +454,6 @@
     "2. Game Rules/Combat Events.md",
     "2. Game Rules/2. Turn Sequence.md",
     "2. Game Rules/Knight's Fate.md",
-    "2. Game Rules/Tables/Knights of Camelot Tables.md",
-    "2. Game Rules/Advancement.md",
     "2. Game Rules/Bestiary/Monsters/Lv_7.txt",
     "2. Game Rules/Bestiary/Monsters/Lv_6.txt",
     "2. Game Rules/Bestiary/Monsters/Lv_5.txt",
