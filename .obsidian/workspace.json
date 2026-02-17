@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. Game Rules/Combat Events.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
+                "file": "2. Game Rules/Tables/Knights of Camelot Tables.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Random Dungeon Encounters"
+              "title": "Knights of Camelot Tables"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Tables/Traps.md",
+                "file": "2. Game Rules/Jousting.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Traps"
+              "title": "Jousting"
             }
           },
           {
@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Tables/Random Names/Random Warrior Priest Names.md",
-                "mode": "preview",
+                "file": "2. Game Rules/Combat.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Random Warrior Priest Names"
+              "title": "Combat"
             }
           }
         ],
@@ -426,34 +426,34 @@
   },
   "active": "0bcd2ba6d76df478",
   "lastOpenFiles": [
-    "2. Game Rules/Tables/Random Names/Random Trollslayer Name.md",
+    "2. Game Rules/Tables/Knights of Camelot Tables.md",
+    "2. Game Rules/Tables/Character Background.md",
+    "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
+    "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
+    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 1.md",
+    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Dark Wizards.md",
+    "2. Game Rules/Bestiary/Animals/List of Animals.md",
+    "2. Game Rules/Bestiary/Monsters/WQ Lv 1.md",
+    "2. Game Rules/Skills/Horseman (3) - Master.md",
+    "2. Game Rules/Jousting.md",
+    "2. Game Rules/Combat Events.md",
+    "1. The World/England/Knights of Camelot Map.md",
+    "2. Game Rules/Skills/Horseman (2) - Expert.md",
+    "2. Game Rules/Skills/Horseman (0) - Untrained.md",
+    "2. Game Rules/Skills/Horseman (1) - Trained.md",
+    "2. Game Rules/Tables/Traps.md",
+    "2. Game Rules/Combat.md",
     "2. Game Rules/Tables/Random Names/Random Warrior Priest Names.md",
+    "2. Game Rules/Tables/Random Names/Random Trollslayer Name.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/New Equipment.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Magic Treasure.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Undead Monsters.md",
-    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Dark Wizards.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Other Monsters.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Monster Tables.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 6.md",
-    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 1.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 5.md",
-    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 4.md",
-    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 3.md",
-    "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark/Part 2.md",
     "2. Game Rules/Tables/Advanced Heroquest",
-    "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
-    "2. Game Rules/Tables/Random Encounters/Random Dungeon Encounters.md",
-    "2. Game Rules/Tables/Traps.md",
-    "2. Game Rules/Combat.md",
-    "2. Game Rules/Bestiary/Monsters/WQ Lv 1.md",
-    "2. Game Rules/Treasure/Loot - Arthurian.md",
-    "2. Game Rules/Treasure/Loot - Battlefield.md",
-    "2. Game Rules/Treasure/Loot - Bretonian.md",
-    "2. Game Rules/Treasure/Loot - Warhammer Quest.md",
-    "2. Game Rules/Combat Events.md",
-    "2. Game Rules/2. Turn Sequence.md",
-    "2. Game Rules/Knight's Fate.md",
     "2. Game Rules/Bestiary/Monsters/Lv_7.txt",
     "2. Game Rules/Bestiary/Monsters/Lv_6.txt",
     "2. Game Rules/Bestiary/Monsters/Lv_5.txt",

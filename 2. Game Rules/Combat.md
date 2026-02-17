@@ -12,32 +12,38 @@ sidebar_position: 3
 
 # The Combat Round
 
-## Initiative (Option 1)
-After resolving the [[2. Turn Sequence#Roll for Surprise|Surprise Roll]], each side rolls a d6.  The side with the highest roll goes first.  This roll is modified by the highest Leadership or Discipline score per side.
+Prior to determining initiative, resolve the Surprise roll.  [[2. Turn Sequence#Roll for Surprise|Surprise Roll]]  If one side surprises the other, the winning side may activate his figures in any order he likes.  Once the surprise round has been resolved, use one of the following initiative options:
 
-## Initiative (Option 2)
-Each side rolls a d6 and adds the Initiative value of the character with the highest Initiative value.  Highest modified roll gets to go first.
+## Initiative (Option 1) -Side Initiative Based on Leadership
+Each side rolls a d6.  The side with the highest roll goes first.  This roll is modified by the highest Leadership score per side.  For example, side A has Leadership 7 while side B has Leadership 9.  Both sides roll a d6 and add their Leadership scores.  Whoever rolls highest after modifiers, gets to go first.
+
+## Initiative (Option 2) - Side Initiative Based on Initiative
+Each side rolls a d6 and adds the Initiative of the character with the highest Initiative value.  Highest modified roll gets to go first.
 
 ## Initiative (Option 3) - Card Initiative
 
-Assign miniatures to cards, shuffle, then activate per card drawn.  Add a Wild Card to the deck, and when it comes up, draw from the Wild Card Deck.  (Or roll on the Wild Card Table)
+Assign miniatures to cards, shuffle, then activate per card drawn.  Add a Wild Card to the deck, and when it comes up, draw from the Wild Card Deck, or roll on the Wild Card Table. (see Where's the Ruckus - Never Mind the Billhooks for example)
 
-## Initiative (Option 4)
+## Initiative (Option 4) - Player Focused
 
 The players always go first, unless they are surprised.  If surprised, they cannot act for the first turn and will always go after their adversaries.
+
+## Initiative (Option 5) - Activation
+
+The player decides which model to activate and rolls a d6.  If the die roll is greater than or equal to their Activation Score, the model can make two actions.  If the die roll is less than the Activation Score, the model can only take a move or reload action.  If the roll is a 1, the figure cannot take any actions and control is passed on to the opposing group.  If the figure was a Hero, roll for an event.
 
 
 # Melee
 Melee as per Confrontation. Attacker rolls 1d6 and adds ATT.  Defender rolls 1d6 and adds DEF.  If the total attack is greater than the total defense, the attack hits and the attacker can roll on the Wound Table.  If the total attack is double or more the total defense, the attacker rolls twice on the Wound Table and take the best result.  If the attacker rolls anything but a one, AND the defender rolls a one on the defense roll, the attacker gets to roll twice on the Wound Table and take the best result of the two rolls.  If the Attacker rolls a one on the attack roll and the Defender does NOT roll a one on defense, the attacker is hit and the defender gets to roll once on the Wound Table.  If both the attacker and defender roll a one, then everyone laughs.
 
-| Situation                | Num of Rolls    |
-| ------------------------ | --------------- |
-| ATT =< DEF               | No Roll         |
-| ATT > DEF                | 1 Roll          |
-| ATT doubles DEF          | 2 Rolls         |
-| ATT roll > 1 AND DEF = 1 | 2 Rolls         |
-| ATT = 1 AND DEF > 1      | Attacker is hit |
-| ATT = 1 AND DEF = 1      | Everyone laughs |
+| Situation                | Num of Rolls            |
+| ------------------------ | ----------------------- |
+| ATT =< DEF               | No Roll                 | 
+| ATT > DEF                | 1 Roll                  |
+| ATT doubles DEF          | 2 Rolls, take best roll |
+| ATT roll > 1 AND DEF = 1 | 2 Rolls, take best roll |
+| ATT = 1 AND DEF > 1      | Attacker is hit         |
+| ATT = 1 AND DEF = 1      | Everyone laughs         |
 
 ## Optional Rule - Melee Combat Events for Duels
 Roll on the table below when either combatant rolls a natural 1, either to hit or defend.
@@ -157,13 +163,17 @@ Type: (dice: 1d66%)  `dice: 1d66%`
 
 ## Wound Penalties
 
-Penalties are applied to Initiative, Attack, Defense and Aim.
+Penalties are applied to Initiative, Attack, Defense, Aim and number of Attacks (minimum 1).
 
 Shock penalties do not "stack".  If a figure suffering from Shock receives a wound, the Shocked condition is removed.
 
-All penalties, except for Shock, last until healed.  A figure already suffering from Shock who receives another Shock result, will be pushed back one inch.  The figure who inflicted the Shock result may follow up or use this opportunity to break from combat.  Figures who are pushed back but are prevented by an obstacle of some sort (wall, tree, etc.), fall prone instead.
+All penalties, except for Shock, last until healed.  
 
-**Optional Rule - Roll for Stun**
+## Push Back
+
+Any wounded figure, (including stun results) can be pushed back one inch.  The figure who inflicted the wound may follow up or use this opportunity to break from combat.  Figures who are pushed back but are prevented by an obstacle of some sort (wall, tree, figures, etc.), fall prone instead.
+
+## **Optional Rule - Roll for Stun**
 If hit in the head, in addition to the usual wound roll, roll on the following chart:
 
 | Roll 1d6 |         Result         |
@@ -202,3 +212,6 @@ A Player Character may receive Poisoned Wounds from a variety of sources.  Knigh
 
 **Note** * The first poisoned wound to Move means to measure front to front when moving instead of front to back.  A second poisoned wound to Move reduces a full range band.  Each poisoned wound to a full range band first reduces movement to front to front.  For example, a poisoned wound to Move on a model with a Medium move, first reduces the movement to Medium -1 which means to use the Medium movement band but measure front to front of the miniature.  A second poisoned wound to the Move score will then drop the move to Short but you can measure front to back.  A third poisoned wound to move, will reduce movement to Short -1 and so on.  The minimum move is 1 inch or the length of the miniature's base.
 
+## Option - Parry
+
+A figure can sacrifice an attack to parry instead.  When he does so, the opponent must re-roll their attack.  If the figure has only one attack, he will not be able to attack during this turn.
