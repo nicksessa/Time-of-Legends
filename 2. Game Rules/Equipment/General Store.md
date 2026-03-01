@@ -94,6 +94,7 @@ Every day each warrior must consume 1 Food Ration.  Warriors lose one point of I
 |    3-4    |  STR   |
 |    5-6    |   T    |
 
+Characters can carry up to 7 days worth of Food Rations of 14 days worth of Iron Rations.  Mounted characters can carry twice as much.  (Remember to feed and water your horses!)
 
 ## Small Game Trap
 
@@ -105,7 +106,9 @@ Same as furs, but will not reduce the movement or hit rolls and may be worn in c
 
 ## Iron Rations
 
-As Food.  Only spoils at the end of an Adventure on a d6 roll of a 1.
+As Food.  Only spoils at the end of an Adventure on a d6 roll of a 1.  
+
+An average character can carry up to 14 days worth of Iron Rations.  Mounted characters can carry twice as much.  (Remember to feed and water your horses!)
 
 ## Lantern
 
@@ -165,3 +168,6 @@ As described by the Barbarian's starting Equipment Card.  Requires Lantern Oil. 
 
 Each Torch burns for 1d6 + 3 turns, and lights the Dungeon as per the Lantern.
 
+## Water
+
+Characters can only typically carry enough water for one day.  Mounted characters can carry enough for two days.  In temperate regions, such as in the vast majority of northern Europe, water can be found every day with little trouble.  In other areas, you will typically only find water in civilized areas or the occasional oasis or stream.  Unless otherwise stated, when looking for water in such areas, roll Luck of the Day.  If successful, you have found a source of water.  You may also spend a Clue to automatically find a source of water.

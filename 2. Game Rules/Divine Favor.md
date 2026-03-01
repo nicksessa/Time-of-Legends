@@ -4,7 +4,7 @@ type: rules
 
 # Divine Favor
 
-Divine Favor is a resource replenished by performing good deeds and religious acts. The amount regained can be modified by having the Religion skill.
+Divine Favor is a resource replenished by performing good deeds and religious acts. If a character has the Religion skill, he gains an extra point of Divine Favor whenever he gains Divine Favor.
 
 Divine Favor is expressed as a number from 0 to 10. You can never have less than zero Divine Favor and 10 is the normal cap. It is possible to increase Divine Favor beyond 10.
 

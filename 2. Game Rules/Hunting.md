@@ -2,6 +2,10 @@
 type: rules
 ---
 
+Hunting, fishing, foraging all take up your entire turn.
+
+You may spend a Clue to automatically find enough Food for up to 6 characters for one day, or enough water for the entire group.
+
 # Countryside
 
 | Country Game                     |
