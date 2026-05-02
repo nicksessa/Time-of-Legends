@@ -27,11 +27,6 @@ Instead of rolling on the chart below, you can receive a Blessing that will allo
 
 Relics allow you to reroll a single roll.  
 
-## Plans
-
-Each plan has a value (1-6). You may spend a plan to adjust the die to the value of the plan, instead of rolling.  You can have any number of plans.
-
-
 All of the following abilities are one use only.
 
 | dice: 1d66% | Result                                                                                                      |
@@ -49,7 +44,7 @@ All of the following abilities are one use only.
 |    51-52    | Strengthened by faith, your character's total STR is doubled for one attack.                                |
 |    53-54    | Strength of Samson, your character's total STR is tripled for one attack.                                   |
 |    55-56    | Gain +3 to hit or defend for one round of combat.                                                           |
-|    61-62    | Shielded by faith, for one round all enemies suffer -1 to hit you or anyone one in your party.              |
+|    61-62    | Shielded by faith, for one round all enemies suffer -5 to hit you or anyone one in your party.              |
 |    63-64    | Gain 2d6 DR for one round of combat.                                                                        |
 |    65-66    | Moved by the hand of God, your character gains double the number of normal attacks for one round.           |
 ^churchBlessingsTable

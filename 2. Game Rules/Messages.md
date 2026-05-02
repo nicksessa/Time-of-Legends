@@ -25,3 +25,13 @@ type: rules
 | `dice: [[Messages#^messages]]` | 
 
 
+## Delivering Messages
+
+After receiving a favorable result on the Castle Reaction Table, roll 1D6. 
+1: The message contains a lewd proposition. You are horsewhipped. Character takes a light wound. 
+2: You are rewarded with 1d6 silver for delivering the message. 
+3: A reply is drafted. You may choose to deliver the reply. If you do, roll for a random destination and receive 2d6 Silver for a reward.
+4: The recipient takes you into their confidence. Do the following twice: roll 1D6 and save the result as a PLAN. 
+5: As a reward, the recipient whispers the password to a random Castle to you. 
+6: The message turns out to be of vital importance! Gain 1 FAME (XP Point) for delivering it. You are also rewarded with a fine HORSE.
+

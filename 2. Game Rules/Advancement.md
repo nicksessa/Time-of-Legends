@@ -52,7 +52,7 @@ Upon gaining a level, roll `dice: 1d3` to determine how many rolls a character c
 |2-5|New Skill|
 |6|Charactistic Increase <br/> Roll d6: <br/> [1-3] +1 STR <br/> [4-6] +1 TOUGH |
 |7|Charactistic Increase <br/> Roll d6: <br/> [1-3] +1 ATT OR RANGED <br/> [4-6] +1 DEF |
-|8|Charactistic Increase <br/> Roll d6: <br/> [1-2] +1 COURAGE <br/> [3-4] +1 DISCIPLINE <br/> [5-6] +1 INITIATIVE |
+|8|Charactistic Increase <br/> Roll d6: <br/> [1-3] +1 LEADERSHIP <br/> [4-6] +1 INITIATIVE |
 |9|Charactistic Increase <br/> +1 Number of Attacks <br/> OR <br/> +1 FATE POINT|
 |10-12| New Skill|
 ^heroAdvancementTable
@@ -100,7 +100,7 @@ Note: It is possible for certain characters to have even lower stats.  For examp
 | :--- | :---: | :---: |
 | Adventure, Successful | As Listed | As Listed |
 | Adventure, Unsuccessful | - | Half Listed |
-| Aid, giving (freeing prisoner, performing escort, aiding by prayer) | -| +1 |
+| Aid, giving (freeing prisoner, performing escort, aiding by prayer, delivering messages) | -| +1 |
 | Aid, refusing | - | -1 |
 | Animal, Slaying | +1 | - |
 | Arthur, being doubted by | - | -1 |

@@ -9,7 +9,7 @@ type: rules
 | Arthurian Knight | Arthur’s Favor; Heal; Join; Lift Enchantment |
 | Castle Owner | Adventure; Appeal to Jailor; Welcome |
 | Dwarf | Join |
-| Goodly Hermit Man | Escort (unless at a Shrine); Heal; Lift Enchantment; Pilgrimage; Release from Enchantress’s Service; Release from Oath |
+| Goodly Hermit Man | Blessing; Escort (unless at a Shrine); Heal; Lift Enchantment; Pilgrimage; Release from Enchantress’s Service; Release from Oath |
 | King (or Castellan) | Adventure; Arthur’s Favor (Castellan only); Castle (Lord only); Dwarf; Escort (unless at Castle); Heal; Lift Enchantment; Men-at-Arms; Pardon; Service |
 | Knight | Heal; Join; Lift Enchantment |
 | Lady | Adventure; Escort (unless at a Castle); Heal; Lift Enchantment; Service; Token |
@@ -40,6 +40,9 @@ The PK may make one free Appeal to Jailor (see page 48). A PK Castle owner must 
 
 ### Arthur’s Favor
 The Arthurian Knight or Castellan (Lord of a castellany) will put in a good word for the PK with King Arthur, so the next time the PK makes a Request of King Arthur, he or she will receive +1 on King Arthur’s reaction. Arthur’s Favor is then consumed (erased from the PK’s Adventure Journal); the PK can obtain it again by repeating the Request. Arthur’s Favor is not cumulative (you may not have more than one such bonus at any given time). Arthurian PKs may not grant this Request.
+
+### Blessings
+Priests, Monks, Friars, Goodly Hermits, etc. can give a Blessing that will allow a character to add +1 to any single die roll. You can have multiple blessings of this type. You can gain blessings at churches and shrines by donating one gold. You can also gain blessings by donating food and or gold to peasants and hermits.
 
 ### Castle
 This can only be Requested of the PK’s Lord. The Lord will assign a randomly determined Adventure (reroll a 2:2 VISIT LOCAL KING result, and treat a 6:5 result as SAVE YOUR LADY, rerolling if no Lady is served) which the PK must successfully complete to be granted a Castle. If the Adventure is not completed successfully, the PK’s Lord will assign another Adventure on the return of the PK. Awards for Adventures are gained normally. Once an Adventure is completed, the Lord will grant the PK a Castle within his Kingdom. If a PK ever changes Lords, any Castle granted to the PK by his old Lord will be taken away from him.
@@ -85,8 +88,6 @@ This can only be Requested of the PK’s Lady. She gives her Token to the PK for
 
 ### Welcome
 The Castle becomes permanently friendly to one other PK accompanying the PK making the Request (see page 27).
-
-
 
 
 ## Aid Requests

@@ -4,6 +4,8 @@ type: rules
 
 # Knight's Fate
 
+^7f0b61
+
 Whenever a Knight is defeated by another Knight or King in a fight (and some challenges), the defeated Knight is subject to a Knight’s Fate. The defeated player knight rolls one die and adds it to the VL of the victor (or the VL of the King or Lady leading the victor); the resulting number is then looked up on the Knight’s Fate chart. A knight who surrenders to a victor’s terms is honor-bound to observe them.
 
 If the player knight strays from the agreed terms, he loses 2d6 VP. Only certain Knight’s Fates may be refused by player knights: these are marked with an asterisk (\*) after the number on the Knight’s Fate chart. Other Fates may not be refused (meaning 2d6 VP cannot be lost for “disobeying” them). Certain Knight’s Fates have no game effects when chosen for vanquished non player knights; to facilitate matters, those that can be meaningfully chosen for non player knights are marked with a dagger (†).
@@ -13,7 +15,7 @@ If the player knight strays from the agreed terms, he loses 2d6 VP. Only certain
 Ransoming Knights: If you have a castle and you have captured a knight, you may ransom him.  Each turn you can choose to demand a sum of GOLD.  Roll 1D6 and keep adding the total until you have rolled a 1 three times.  If the total exceeds your demand, receive the sum of GOLD you demanded. Otherwise, you must keep the knight.
 
 
-| dice: 1d6 | Type / Description |
+| roll dice | Type / Description |
 |:---:|------|
 | 1 or less † | Slay - The victor slays the loser immediately. A PK may not slay another PK or a King. |
 | 2 | Poisoned Wounds - The victor inflicts up to d4 Poisoned Wounds upon the loser. The number given to the loser must not slay him. A PK may choose to give any number of Poisoned Wounds up to a maximum of 4, as long as the restriction is obeyed. |
@@ -34,5 +36,5 @@ Ransoming Knights: If you have a castle and you have captured a knight, you may 
 
 ## Roll It!
 
-`dice: [[Knights of Camelot Tables#^knightsFate]]`
+`dice: [[Knight's Fate#^knightsFate]]`
 

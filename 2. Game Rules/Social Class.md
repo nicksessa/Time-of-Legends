@@ -28,7 +28,7 @@ type: rules
 ^lordTable
 
 
-| dice: 1d10 | Lord       |
+| dice: 1d10 | Aristocrat       |
 |:----------:| ---------- |
 |    1-5     | Marquess   |
 |    6-7     | Duke       |

@@ -30,7 +30,7 @@ type: rules
 | [[General Store#Lock Picks\|Lock Picks]]                     |   9   | 400        | 200         |      1d3      |
 | [[General Store#Map of the Old World\|Map of the Old World]] |   8   | 500        | 100         |       1       |
 | [[General Store#Oilcloth Satchel\|Oilcloth Satchel]]         |   6   | 100        | 20          |      1d3      |
-| [[General Store#Plans\|Plan]]                                |       | special    |             |       -       |
+| [[General Store#Plans\|Plan, Cunning]]                                |       | special    |             |       -       |
 | [[General Store#Portable Spit\|Portable Spit]]               |   5   | 250        | 25          |       1       |
 | [[General Store#Provincial Map\|Provincial Map]]             |   7   | 300        | 75          |       1       |
 | [[General Store#Relic\|Relic]]                               |       | varies     |             |       -       |
@@ -50,7 +50,7 @@ Relics allow you to reroll a single roll.
 
 ## Plans
 
-Each plan has a value (1-6). You may spend a plan to adjust the die to the value of the plan instead of rolling.  You can have any number of plans.  For example, after holding a "Council of War", the warriors come up with a plan by rolling a 1d6, resulting in a 3.  You keep this "3" until you need it for some die roll.  After using a plan, it is discarded.
+Each cunning plan has a value (1-6). You may spend a plan to adjust the die to the value of the plan instead of rolling.  You can have any number of plans.  For example, after holding a "Council of War", the warriors come up with a plan by rolling a 1d6, resulting in a 3.  You keep this "3" until you need it for some future die roll.  After using a plan, it is discarded.  Prior to using a plan, you must say in your best Baldrick (from Black Adder) voice "I have a cunning plan!"
 
 ## Bandages
 
