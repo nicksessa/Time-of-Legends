@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Game Rules/Combat.md",
+                "file": "2. Game Rules/2. Turn Sequence.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,19 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "2. Turn Sequence"
+            }
+          },
+          {
+            "id": "a2684c72dd7f2191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Game Rules/103 Knight Progression and Domain Rules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "103 Knight Progression and Domain Rules"
             }
           },
           {
             "id": "c0fda03d622357c7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "2. Game Rules/101 Intro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "101 Intro"
             }
           },
           {
@@ -140,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -418,34 +454,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "141a9d169b4997c7",
+  "active": "a2684c72dd7f2191",
   "lastOpenFiles": [
-    "2. Game Rules/Combat.md",
-    "2. Game Rules/Social Class.md",
-    "2. Game Rules/Advancement.md",
-    "2. Game Rules/Messages.md",
+    "2. Game Rules/101 Intro.md",
+    "2. Game Rules/103 Knight Progression and Domain Rules.md",
+    "2. Game Rules/102 Some Domain Info.md",
     "2. Game Rules/1. Start Here.md",
-    "2. Game Rules/Tables/Character Background.md",
-    "2. Game Rules/Skills.md",
-    "2. Game Rules/Equipment/Weapon & Armor Tables.md",
-    "2. Game Rules/Equipment/Armor.md",
-    "2. Game Rules/Resting.md",
-    "2. Game Rules/Reactions.md",
+    "2. Game Rules/2. Turn Sequence.md",
+    "2. Game Rules/Combat.md",
     "2. Game Rules/Encounters.md",
-    "2. Game Rules/Environmental Events.md",
-    "2. Game Rules/Special Abilities.md",
-    "2. Game Rules/Money.md",
-    "2. Game Rules/Knight's Fate.md",
-    "2. Game Rules/Bad Guys.md",
-    "2. Game Rules/Church Blessings.md",
-    "2. Game Rules/Equipment/General Store.md",
-    "2. Game Rules/Equipment/Items.md",
-    "2. Game Rules/Stats.md",
-    "1. The World/England/Knights of Camelot Map.md",
+    "2. Game Rules/Divine Favor.md",
+    "2. Game Rules/Enchantements.md",
+    "2. Game Rules/Events.md",
     "2. Game Rules/Permanent Injury Chart.md",
-    "2. Game Rules/Prayers and Requests.md",
-    "2. Game Rules/Bestiary/Monsters/WQ Lv 1.md",
-    "2. Game Rules/Combat Events.md",
+    "2. Game Rules/X. Adventures.md",
+    "2. Game Rules/Weather.md",
+    "2. Game Rules/Travel/Travel Hazards.md",
+    "2. Game Rules/Tables/Random Knight.md",
+    "2. Game Rules/Tables/Random Dungeon Names.md",
+    "2. Game Rules/Tables/List of Saints.md",
+    "2. Game Rules/Tables/Lady in Service Rewards.md",
+    "2. Game Rules/Tables/Knights of Camelot Tables.md",
+    "2. Game Rules/Tables/Character Background.md",
+    "2. Game Rules/Tables/Random Names/Random Dwarf Names.md",
+    "2. Game Rules/Tables/Random Names/Random French Male Names.md",
+    "2. Game Rules/Tables/Random Names/Random Warrior Priest Names.md",
+    "2. Game Rules/Tables/Random Names/Random Name Generator for Inns.md",
+    "2. Game Rules/Tables/Random Names/Random Trollslayer Name.md",
+    "2. Game Rules/Tables/Random Encounters/Special Features and Events.md",
     "2. Game Rules/Tables/Advanced Heroquest/Terror In The Dark",
     "2. Game Rules/Tables/Advanced Heroquest",
     "2. Game Rules/Bestiary/Monsters/Lv_7.txt",
